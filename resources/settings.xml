@@ -1,0 +1,10 @@
+<settings>
+  <category label="General">
+    <setting id="has_updated_librtmp" type="bool" label="Updated libRTMP present" default="false" />
+    <setting id="show24h" type="bool" label="Show times in 24h format" default="false" />
+  </category>
+  <category label="WhatsOnIndia.com">
+    <setting id="woi_user" type="text" label="Username (E-Mail)" default=""/>
+    <setting id="woi_pass" type="text" label="Password" default=""/>
+  </category>
+</settings>
