@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+  <stream>
+  <title>CBS</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://46.105.115.183:1935/edge/gatal7q1rxxzdbf/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/25016/CBS]]></pageUrl>
+  <language>English</language>
+  <logourl>http://images.wikia.com/logopedia/images/5/5c/Wtsp.png</logourl>
+  <epgid>tvguide:535</epgid>
+  <!--<backup> KCAL9
+  <link>http://38.96.175.173:1935/live/00005.stream/playlist.m3u8</backup>
+  </backup>-->
+  </stream>
+  <stream>
+  <title>NBC</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://46.105.115.183:1935/edge/z6xnl2o41o50qjz/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/25016/Live_NBC]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/e/ec/NBC_logo_2011.png</logourl>
+  <epgid>tvguide:180</epgid>
+  </stream>
+  <stream>
+  <title>FOX</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://46.105.115.183:1935/edge/y54u7uaac4fh8f2/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/26107/FoxNet]]></pageUrl>
+  <language>English</language>
+  <logourl>http://images1.wikia.nocookie.net/__cb20101107182618/logopedia/images/4/46/Fox_13_Tampa_Bay.png</logourl>
+  <epgid>tvguide:2880</epgid>
+  <!--<backup> KTTV
+  <link>http://38.96.175.173:1935/live/00001.stream/playlist.m3u8</backup>
+  </backup>-->
+  </stream>
+  <stream>
+  <title>ABC</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://46.105.115.183:1935/edge/vztzfb223n0hfrc/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/26323/ABC]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/2/21/American_Broadcasting_Company_Logo_2007.png</logourl>
+  <epgid>tvguide:194</epgid>
+  </stream>
+  <!--<stream>
+  <title>HBOe</title>
+  <swfUrl>http://www.veohcast.tv/veohcast.tv.swf</swfUrl>
+  <link>rtmp://38.96.175.173:1935/live/</link>
+  <pageUrl><![CDATA[http://www.veohcast.tv]]></pageUrl>
+  <playpath>00006@hyqw</playpath>
+  <language>English</language>
+  <advanced>swfVfy=1</advanced>
+  <epgid>tvguide:411</epgid>
+  <logourl>http://www.digitalfilmtree.com/blog/wp-content/uploads/2011/12/hbo-logo-01-g.jpeg</logourl>
+  </stream>-->
+  <stream>
+    <title>TBS</title>
+    <swfUrl>http://cdn.static.ilive.to/jwplayer/player.swf </swfUrl>
+    <link>rtmp://46.105.115.183/edge</link>
+    <pageUrl>http://www.ilive.to/view/26798/The_Best_Station</pageUrl>
+    <playpath>0m5j0l9g9f6gxxd </playpath>
+    <language>English</language>
+    <advanced />
+    <epgid>tvguide:410</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/f/f1/PerfectTBS.svg/1000px-PerfectTBS.svg.png</logourl>
+  </stream>
+  <stream>
+  <title>Syfy</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.124:1935/edge/waq8p0r4sf8no28/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/26858/Syfy]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/c/c9/Syfy.png</logourl>
+  <epgid>tvguide:1232</epgid>
+  <!--<backup>
+    <link>http://38.96.175.173:1935/live/00007.stream/playlist.m3u8</link>
+  </backup>-->
+  </stream>
+  <stream>
+  <title>USA Network</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/z2ytm4lanvg89zo/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/UUU]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/c/c1/PerfectUSA.svg/1000px-PerfectUSA.svg.png</logourl>
+  <epgid>tvguide:432</epgid>
+  </stream>
+  <stream>
+  <title>A&amp;E</title>
+  <swfUrl>http://cdn.static.ilive.to/jwplayer/player.swf </swfUrl>
+  <link>rtmp://176.31.231.57/edge</link>
+  <pageUrl>http://www.ilive.to/view/26798/The_Best_Station</pageUrl>
+  <playpath>va6bhyluvyiirgi</playpath>
+  <language>English</language>
+  <advanced />
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1000px-A%26E_Network_logo.svg.png</logourl>
+  <epgid>tvguide:426</epgid>
+  </stream>
+  <stream>
+    <title>Bravo</title>
+    <swfUrl>http://streami.tv/files/fp/flowplayer.securestreaming.swf</swfUrl>
+    <link>rtmp://89.248.174.106/streami</link>
+    <pageUrl>http://streami.tv</pageUrl>
+    <playpath>streamclapinglots-zqtx</playpath>
+    <language>English</language>
+    <advanced>swfVfy=1 token=VyPxYFDj4BvxtVv7</advanced>
+    <epgid>tvguide:404</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Bravo_TV.svg/1000px-Bravo_TV.svg.png</logourl>
+  </stream>
+  <stream>
+  <title>Showtime Extreme</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://38.96.175.173:1935/live/00011.stream/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.veohcast.tv]]></pageUrl>
+  <language>English</language>
+  <logourl>http://images4.wikia.nocookie.net/__cb20100321192038/logopedia/images/thumb/6/66/Showtime_Extreme_2000.svg/1000px-Showtime_Extreme_2000.svg.png</logourl>
+  <epgid>tvguide:3646</epgid>
+  </stream>
+  <stream>
+  <title>Cinemax</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://38.96.175.173:1935/live/00010.stream/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.veohcast.tv]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/3/39/Cinemax_2011_Logo.png</logourl>
+  <epgid>tvguide:412</epgid>
+  </stream>
+  <stream>
+  <title>FX</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://38.96.175.173:1935/live/00003.stream/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.veohcast.tv]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FX_2008_logo.svg/1000px-FX_2008_logo.svg.png</logourl>
+  <epgid>tvguide:1182</epgid>
+  </stream>
+  <stream>
+  <title>CW</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/jmk9e5uq127fxrj/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/24791/Watertown]]></pageUrl>
+  <language>English</language>
+  <logourl>http://images.wikia.com/logopedia/images/c/c5/The_CW_44_Tampa_Bay.png</logourl>
+  <epgid>tvguide:531</epgid>
+  <!--<backup> KTLA
+    <link>http://38.96.175.173:1935/live/00004.stream/playlist.m3u8</link>
+  </backup>-->
+  </stream>
+  <stream>
+  <title>TNT</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1000px-TNT_TV_logo.svg.png</logourl>
+  <epgid>tvguide:427</epgid>
+  <swfUrl>http://cdn.static.ilive.to/jwplayer/player.swf </swfUrl>
+  <link>rtmp://176.31.231.57/edge</link>
+  <pageUrl>http://www.ilive.to/view/26798/The_Best_Station</pageUrl>
+  <playpath>fqme8xvmh5jcdo1</playpath>
+  </stream>
+  <stream>
+  <title>History Channel</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/tshpebg3k9u9sjn/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23699/History]]></pageUrl>
+  <language>English</language>
+  <logourl>http://www.logotypes101.com/files/887/7b701cb3925e9d0ca391256e9a1588de/lrg_History_Channel.gif</logourl>
+  <epgid>tvguide:1254</epgid>
+  </stream>
+  <stream>
+  <title>MTV</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/k82tj57n564mf8t/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23531/Music_Television]]></pageUrl>
+  <language>English</language>
+  <logourl>http://www.zombiereportingcenter.com/wp-content/uploads/2010/01/673px-MTV-Logo.svg.png</logourl>
+  <epgid>tvguide:440</epgid>
+  </stream>
+  <stream>
+  <title>Food Network</title>
+  <swfUrl>http://cdn.static.ilive.to/jwplayer/player.swf </swfUrl>
+  <link>rtmp://176.31.231.57/edge</link>
+  <pageUrl>http://www.ilive.to/view/26798/The_Best_Station</pageUrl>
+  <playpath>welzkxk0o4c9vch</playpath>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/1000px-Food_Network.svg.png</logourl>
+  <epgid>tvguide:2006</epgid>
+  </stream>
+  <stream>
+  <title>Discovery Network</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/ewajldu1fsy867k/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23597/Discovery]]></pageUrl>
+  <language>English</language>
+  <logourl>http://www.mhptv.com/images/discoveryLogo.jpg</logourl>
+  <epgid>tvguide:399</epgid>
+  </stream>
+  <stream>
+  <title>HGTV</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>rtmp://fms3.tikilive.com:1935/view/25503_122/stream25503</link>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Hgtv-2010.png/1024px-Hgtv-2010.png</logourl>
+  <epgid>tvguide:424</epgid>
+  </stream>
+  <stream>
+  <title>CNN</title>
+  <swfUrl>http://cdn.static.ilive.to/jwplayer/player.swf </swfUrl>
+  <link>rtmp://176.31.231.57/edge</link>
+  <pageUrl>http://www.ilive.to/view/26798/The_Best_Station</pageUrl>
+  <playpath>5fvqxtgvyn2m9n1</playpath>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/so/thumb/8/8b/Cnn.svg/800px-Cnn.svg.png</logourl>
+  <epgid>tvguide:429</epgid>
+  </stream>
+  <stream>
+  <title>FOX News</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://46.105.115.183:1935/edge/ltspcq4m7ropuyr/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/24278/FoxNews]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Fox_News_Channel.svg/1000px-Fox_News_Channel.svg.png</logourl>
+  <epgid>tvguide:450</epgid>
+  </stream>
+  <stream>
+  <title>MSNBC</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://msnbclive.eu/getswf.php?name=player.swf</swfUrl>
+  <link>rtmp://d.cdn.msnbclive.eu/edge</link>
+  <pageUrl><![CDATA[http://www.rentadrone.org/msnbc-live-rockinroosters]]></pageUrl>
+  <playpath>msnbc_live</playpath>
+  <language>English</language>
+  <logourl>http://members.fortunecity.com/tvnetworks/nbc/msnbc.jpg</logourl>
+  <epgid>tvguide:1202</epgid>
+  </stream>
+  <stream>
+  <title>Spike TV</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://cdn.static.ilive.to/jwplayer/player.swf </swfUrl>
+  <link>rtmp://176.31.231.57/edge</link>
+  <pageUrl>http://www.ilive.to/view/26798/The_Best_Station</pageUrl>
+  <playpath>x5td6kqgfgwxdue</playpath>
+  <language>English</language>
+  <logourl>http://images2.wikia.nocookie.net/__cb20100510064638/memoryalpha/en/images/thumb/6/68/Spike_TV_logo.svg/1000px-Spike_TV_logo.svg.png</logourl>
+  <epgid>tvguide:425</epgid>
+  </stream>
+  <stream>
+  <title>truTV</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/ftm1f5tw03fhfgd/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23599/Tru_TV]]></pageUrl>
+  <language>English</language>
+  <logourl>http://www.examiner.com/images/blog/EXID39667/images/trutvtitle(1).jpg</logourl>
+  <epgid>tvguide:33</epgid>
+  </stream>
+  <stream>
+  <title>NBC Sport Networks</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/4x4lgo51isxpur0/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23510/NBC_Sport_Networks]]></pageUrl>
+  <language>English</language>
+  <logourl>http://fishthebaja.com/wp-content/uploads/2011/02/NBC_Sports_PPT_3D_whiteLOGO.png</logourl>
+  <epgid>tvguide:18729</epgid>
+  </stream>
+  <stream>
+  <title>ESPN</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://46.105.115.183:1935/edge/lze117w3jf3cnmh/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/25200/CBS]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png</logourl>
+  <epgid>tvguide:423</epgid>
+  </stream>
+  <stream>
+  <title>ESPN2</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/c9es2x5p0zsoypv/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23699/History]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1000px-ESPN2_logo.svg.png</logourl>
+  <epgid>tvguide:435</epgid>
+  </stream>
+  <stream>
+  <title>FOX Soccer</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://38.96.175.173:1935/live/00002.stream/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.veohcast.tv]]></pageUrl>
+  <language>English</language>
+  <logourl>http://img811.imageshack.us/img811/5675/foxsoccer.png</logourl>
+  <epgid>tvguide:2280</epgid>
+  </stream>
+  <stream>
+  <title>Speed</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/ro94w8msagdfuxg/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23034/pctv3]]></pageUrl>
+  <language>English</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Speed_Channel.svg/1000px-Speed_Channel.svg.png</logourl>
+  <epgid>tvguide:1244</epgid>
+	</stream>
+  <stream>
+  <title>National Geographic Mundo</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/k6sl277kqlswruk/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/23143/NATIONAL_GEOGRAPHIC_CHANNEL]]></pageUrl>
+  <language>English</language>
+  <logourl>http://images.wikia.com/logopedia/images/f/f4/Nat_Geo_Mundo.png</logourl>
+  <epgid>tvguide:29849</epgid>
+  </stream>
+  <stream>
+  <title>History Channel en Español</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <link>http://176.31.231.57:1935/edge/notzlkijdubh0bd/playlist.m3u8</link>
+  <pageUrl><![CDATA[http://www.ilive.to/view/24819/HISTORY_CHANNEL]]></pageUrl>
+  <language>English</language>
+  <logourl>http://images3.wikia.nocookie.net/__cb20111207182223/logopedia/images/thumb/a/a0/History_en_Español.svg/1000px-History_en_Español.svg.png</logourl>
+  <epgid>tvguide:15137</epgid>
+  </stream>
+</streams>

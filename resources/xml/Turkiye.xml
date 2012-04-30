@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+  <stream>
+  <title>TRT 1</title>
+  <link>mms://95.0.159.138/TV1</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT-logo.svg/1000px-TRT-logo.svg.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRT1</epgid>
+  </stream>
+  <stream>
+  <title>TRT Haber</title>
+  <link>mms://95.0.159.138/TV2</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/1/19/TRT_Haber_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTHABER</epgid>
+  </stream>
+  <stream>
+  <title>TRT 3 Spor</title>
+  <link>mms://95.0.159.138/TV3</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/1/1d/TRT_3_Spor_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRT3</epgid>
+  </stream>
+  <stream>
+  <title>TRT Çocuk</title>
+  <link>mms://95.0.159.138/TV4</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/f/fb/TRT_Çocuk_kanal_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTCOCUK</epgid>
+  </stream>
+  <stream>
+  <title>TRT 6</title>
+  <link>mms://95.0.159.138/TV6</link>
+  <logourl>http://www.lyngsat-logo.com/hires/tt/trt6.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRT6</epgid>
+  </stream>
+  <stream>
+  <title>TRT Avaz</title>
+  <link>mms://95.0.159.138/TRTAVAZ</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/a/a8/TRT_Avaz_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTAvaz</epgid>
+  </stream>
+  <stream>
+  <title>TRT Türk</title>
+  <link>mms://95.0.159.138/TRTTURK</link>
+  <logourl>http://www.lyngsat-logo.com/hires/tt/trt_turk.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTTÜRK</epgid>
+  </stream>
+  <stream>
+  <title>TRT Belgesel</title>
+  <link>mms://95.0.159.138/TRTBELGESEL</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/4/48/TRT_Belgesel_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTBELGESEL</epgid>
+  </stream>
+  <stream>
+  <title>TRT Müzik</title>
+  <link>mms://95.0.159.138/TRTMUZIK</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/thumb/1/16/TRT_Müzik_logosu.png/1024px-TRT_Müzik_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTMÜZİK</epgid>
+  </stream>
+  <stream>
+  <title>TRT Arapça</title>
+  <link>mms://95.0.159.138/TRTARABIC</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/2/21/TRT_Et-Türkiyye_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTArapça</epgid>
+  </stream>
+  <stream>
+  <title>TRT HD</title>
+  <link>mms://95.0.159.138/TRTHD</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/b/b5/Trt_hd.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTHD</epgid>
+  </stream>
+  <stream>
+   <title>TRT Anadolu</title>
+   <link>mms://95.0.159.138/TV5</link>
+   <logourl>http://www.lyngsat-logo.com/hires/tt/trt_anadolu.png</logourl>
+   <language>Turkish</language>
+   <epgid>trttr:TRTANADOLU</epgid>
+   </stream>
+  <stream>
+  <title>TRT Okul</title>
+  <link>mms://95.0.159.138/TRTOKUL</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/3/34/TRT_Okul_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>trttr:TRTOKUL</epgid>
+  </stream>
+  <stream>
+    <title>FOX</title>
+    <swfUrl>http://www.fox.com.tr/swf/flowplayer.commercial-3.2.7.swf</swfUrl>
+    <link>rtmp://fox-l.mncdn.com/foxtv_web</link>
+    <pageUrl>http://www.fox.com.tr/canliyayin/foxcanliyayin</pageUrl>
+    <playpath>foxtv3</playpath>
+    <language>Turkish</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1000px-FOX_wordmark-orange.svg.png</logourl>
+    <epgid>rytectr:Fox.tr</epgid>
+    <backup>
+      <link>rtmp://fox-l.mncdn.com/foxtv_web/foxtv3 swfUrl=http://www.fox.com.tr/swf/flowplayer.rtmp-3.2.3.swf pageURL=http://www.fox.com.tr/canliyayin/foxcanliyayin playpath=foxtv3 live=true swfVfy=true</link>
+    </backup>
+  </stream>
+  <stream>
+    <title>Star TV</title>
+    <swfUrl>http://mnhst.mncdn.net/players/NTV/playerXML2.swf</swfUrl>
+    <link>rtmp://dogus-live.mncdn.com/tv_startv/</link>
+    <pageUrl>http://www.startv.com.tr/CanliYayin.aspx</pageUrl>
+    <playpath>star</playpath>
+    <language>Turkish</language>
+    <advanced />
+    <logourl>http://www.lyngsat-logo.com/hires/ss/star_tv_tr.png</logourl>
+    <epgid>rytectr:Start.tr</epgid>
+    <backup>
+      <link>rtmp://strm-l.glb.mncdn.net:1935/tv_startv swfUrl=http://www.kraltv.com.tr/2010/player.swf? pageUrl=http://fbmlkodarsiv.tr.gg/Star-Tv-Canli-Yayin-izle.htm playpath=star live=true swfVfy=true</link>
+    </backup>
+  </stream>
+  <stream>
+    <title>Powertürk TV</title>
+    <swfUrl>http://www.powerturk.tv/2010/player.swf</swfUrl>
+    <link>rtmp://46.20.4.42:80/powerturk</link>
+    <pageUrl>http://www.powerturk.tv/2010/izle.asp</pageUrl>
+    <playpath>powerturk1</playpath>
+    <language>Turkish</language>
+    <advanced>-v</advanced>
+    <epgid>rytectr:PowerTurk.tr|nochk</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/7/7e/Powerturk.gif</logourl>
+  </stream>
+  <!--<stream>
+    <title>Skytürk 360</title>
+    <swfUrl>http://www.skyturk360.com/player/streamplayer.swf</swfUrl>
+    <link>rtmp://fml.45FB.edgecastcdn.net/2045FB/skyturkcanli</link>
+    <pageUrl>http://www.skyturk360.com/canli.asp</pageUrl>
+    <playpath>skyturk</playpath>
+    <language>Turkish</language>
+    <advanced>-a 2045FB/skyturkcanli</advanced>
+    <logourl>http://www.lyngsat-logo.com/hires/ss/sky_turk_360.png</logourl>
+  </stream>-->
+  <stream>
+  <title>a Haber</title>
+  <link>rtmp://live.ahaber.com.tr:443/ahaber swfurl=http://www.ahaber.com.tr/c/player/TMDMedia/TMDPlayer327.swf pageURL=http://www.ahaber.com.tr/webtv/videoizle/ahaber/canli_yayin playpath=ahaber3 live=true swfVfy=true</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/6/65/A_Haber_logosu.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <!--<stream>
+  <title>Show TV</title>
+  <link>mmsh://yayin2.canlitv.com/showtv?MSWMExt=.asf</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/c/c4/Show_TV_logosu.png</logourl>
+  <language>Turkish</language>
+  <epgid>rytectr:ShowTV.tr|nochk</epgid>
+  </stream>-->
+  <stream>
+  <title>NTV</title>
+  <link>rtmp://strm-3.tr.medianova.tv/tv_ntv swfurl=http://www.kralfm.com.tr/mediaplayer.swf pageURL=http://cm.ntvmsnbc.com/ServerSite/wui/NTVCanliYayin/default.aspx playpath=ntv3 live=true swfVfy=true</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/d/df/NTV_logosu.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+  <title>NTV Spor</title>
+  <link>rtmp://strm-3.tr.medianova.tv/tv_ntvspor/ntvspor3 swfurl=http://mnhst.mncdn.net/players/NTV/playerXML2.swf pageURL=http://www.ntvspor.net/canliyayin playpath=ntvspor3 live=true swfVfy=true</link>
+  <logourl>http://www.lyngsat-logo.com/hires/nn/ntv_spor.png</logourl>
+  <language>Turkish</language>
+  <epgid>rytectr:NTVSpor.tr</epgid>
+  </stream>
+  <stream>
+  <title>atv</title>
+  <link>rtmp://live.atv.com.tr:443/atv/ swfUrl=http://www.atv.com.tr/c/player/SabahJW53.swf? pageUrl=http://webtv.atv.com.tr/webtv/videoizle/atv/canli_yayin playpath=atv2 live=true swfVfy=true</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/b/be/Atv_tr.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+    <title>tv8 HD</title>
+    <swfUrl>http://www.tilda.com.tr/player/player.swf</swfUrl>
+    <link>rtmp://streamer5.tilda.com.tr:80/live</link>
+    <pageUrl>http://tv8.tilda.com.tr/indextest.php</pageUrl>
+    <playpath>sekiz</playpath>
+    <language>Turkish</language>
+    <advanced>-a live</advanced>
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/8/8d/Tv8_logosu.png</logourl>
+  </stream>
+  <stream>
+    <title>Vatan TV</title>
+    <swfUrl>http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf</swfUrl>
+    <link>rtmp://89.149.244.41:1935/live</link>
+    <pageUrl>http://www.hdtvizle.com</pageUrl>
+    <playpath>vatantv</playpath>
+    <language>Turkish</language>
+    <advanced>-v</advanced>
+  </stream>
+  <stream>
+    <title>Amasya TV</title>
+    <swfUrl>http://www.tvdunyasi.com/mediaplayer2.swf</swfUrl>
+    <link>rtmp://yayin.tvdunyasi.tv/live/</link>
+    <pageUrl>http://wwitv.com/tv_channels/b4582.htm</pageUrl>
+    <playpath>amasya_art</playpath>
+    <language>Turkish</language>
+    <advanced />
+  </stream>
+  <stream>
+    <title>CNN Türk</title>
+    <swfUrl>http://video.cnnturk.com//Content/Player/Live1.swf</swfUrl>
+    <link>rtmp://live.dtv.cubecdn.net:80/cnnturktv</link>
+    <pageUrl>http://video.cnnturk.com/</pageUrl>
+    <playpath>CNNTurk3</playpath>
+    <language>Turkish</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/3/3b/CNN_Türk_logosu.png</logourl>
+  </stream>
+  <stream>
+  <title>CNN Spor</title>
+  <link>mms://yayin.tv-fm.com/cnnspor</link>
+  <logourl>http://www.tv-fm.com/picture/logo/2132.jpg</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+    <title>Düğün TV</title>
+    <swfUrl>http://www.hdtvizle.com/proplayer/players/player.swf</swfUrl>
+    <link>rtmp://62.113.210.237/vipinfotainment-live</link>
+    <pageUrl>http://www.canlihdtvizle.net/dugun-tv-canli-hd-izle.htm</pageUrl>
+    <playpath>livestream</playpath>
+    <language>Turkish</language>
+    <advanced>-a vipinfotainment-live</advanced>
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/f/fa/Duguntv.gif</logourl>
+  </stream>
+  <stream>
+    <title>Fashion One TV</title>
+    <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+    <link>rtmp://94.23.248.192/rtplive/</link>
+    <pageUrl>http://ovego.3dn.ru/publ/live_tv/moda/fashion_one_tv_onlajn_transljacija/10-1-0-204</pageUrl>
+    <playpath>fashionone.sdp</playpath>
+    <language>Turkish</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/d/d9/Fashiononetvlogo.png</logourl>
+  </stream>
+  <stream>
+    <title>Flash TV</title>
+    <swfUrl>http://www.streamsolutions.co.uk/flash/streamsolutions_player.swf</swfUrl>
+    <link>rtmp://stream1.yayinizle.com/teststream/</link>
+    <pageUrl>http://www.hdtvizle.com/60-flash-tv.html</pageUrl>
+    <playpath>teststream.sdp</playpath>
+    <language>Turkish</language>
+    <advanced>-a teststream/</advanced>
+    <epgid>rytectr:FlashTV.tr|nochk</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/1/13/Flash_TV_logosu.png</logourl>
+  </stream>
+  <stream>
+  <title>BelgeselTV.com</title>
+  <link>mms://yayin.tv-fm.com/belgeseltv</link>
+  <logourl>http://www.tv-fm.com/picture/logo/35.jpg</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+  <title>FOX Belgesel</title>
+  <link>mms://yayin.tv-fm.com/foxbelgesel</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1000px-FOX_wordmark-orange.svg.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+  <title>OrmanTV.com</title>
+  <link>mms://yayin.tv-fm.com/ormantv</link>
+  <logourl>http://www.tv-fm.com/picture/logo/2121.jpg</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+  <title>Sinema TV HD</title>
+  <link>mms://yayin.tv-fm.com/akittv</link>
+  <logourl>http://www.lyngsat-logo.com/hires/ss/sinema_tv_hd.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+  <title>Sinema TV HD2</title>
+  <link>mms://yayin.tv-fm.com/kesantv</link>
+  <logourl>http://www.lyngsat-logo.com/hires/ss/sinema_tv_hd2.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+    <title>TGRT EU</title>
+    <swfUrl>http://www.hdtvizle.com/proplayer/players/player.swf</swfUrl>
+    <link>rtmp://live.tgrt.de/live/</link>
+    <pageUrl>http://www.hdtvizle.com/188-tgrt-avrupa-hd-izle.html</pageUrl>
+    <playpath>TGRT</playpath>
+    <language>Turkish</language>
+    <advanced>-a live/</advanced>
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/a/af/Tgrt_eu.jpg</logourl>
+  </stream>
+  <stream>
+    <title>IMC</title>
+    <swfUrl>http://www.freeetv.com/script/mediaplayer/player.swf</swfUrl>
+    <link>rtmp://94.75.221.220/live/</link>
+    <pageUrl>http://www.waaatch.com</pageUrl>
+    <playpath>imctv</playpath>
+    <language>Turkish</language>
+    <advanced>-a live/ -v </advanced>
+  </stream>
+  <stream>
+    <title>Kral TV</title>
+    <swfUrl>http://mnhst.mncdn.net/players/kraltvavrupa.swf</swfUrl>
+    <link>rtmp://strm-3.tr.medianova.tv/kraltv_avrupa</link>
+    <pageUrl>http://www.kraltv.com.tr/live/</pageUrl>
+    <playpath>kraltv_avrupa3</playpath>
+    <language>Turkish</language>
+    <advanced>-a kraltv_avrupa</advanced>
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/5/55/Kral_TV_logosu.png</logourl>
+  </stream>
+  <stream>
+    <title>Kanal D</title>
+    <swfUrl>http://webtv.kanald.com.tr/CanliYayin/swf/Player.swf</swfUrl>
+    <link>rtmp://live.dtv.cubecdn.net/kdmobil/</link>
+    <pageUrl>http://webtv.kanald.com.tr/CanliYayin/</pageUrl>
+    <playpath>KanalD1</playpath>
+    <language>Turkish</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png</logourl>
+    <backup>
+      <link>rtmp://live.dtv.cubecdn.net/kdmobil swfurl=http://webtv.kanald.com.tr/CanliYayin/swf/Player.swf playpath=KanalD3 live=true</link>
+    </backup>
+  </stream>
+  <stream>
+    <title>Mavi Karadeniz TV</title>
+    <swfUrl>http://livemytv.com/channel/player.swf</swfUrl>
+    <link>rtmp://89.149.244.41:1935/live</link>
+    <pageUrl>http://livemytv.com/online.php</pageUrl>
+    <playpath>mavikaradeniz </playpath>
+    <language>Turkish</language>
+    <advanced>-a live</advanced>
+    <logourl>http://upload.wikimedia.org/wikipedia/tr/d/df/Mavi_karadeniz.jpg</logourl>
+  </stream>
+  <stream>
+    <title>Movie Turk</title>
+    <swfUrl>http://www.flashskins.co.uk/player45a.swf</swfUrl>
+    <link>rtmp://85.25.122.231/trk/video/</link>
+    <pageUrl>http://www.canli-tv-izle.org/canli-movie-turk-izle.html</pageUrl>
+    <playpath>stream</playpath>
+    <language>Turkish</language>
+    <advanced>-v</advanced>
+  </stream>
+  <stream>
+     <title>Number One TV</title>
+     <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+     <link>rtmp://94.23.248.192/live/</link>
+     <pageUrl>http://ovego.3dn.ru/publ/live_tv/muzyka/number_one_tv_onlajn_transljacija/4-1-0-161</pageUrl>
+     <playpath>nr2.sdp</playpath>
+     <language>Turkish</language>
+     <advanced />
+     <logourl>http://upload.wikimedia.org/wikipedia/tr/4/43/Number_One_TV_logosu.png</logourl>
+   </stream>
+   <stream>
+     <title>Planet Pembe</title>
+     <swfUrl>http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf</swfUrl>
+     <link>rtmp://93.187.203.125:1935/live</link>
+     <pageUrl>http://www.canlihdtvizle.net/planet-pembe-izle.html</pageUrl>
+     <playpath>planet3</playpath>
+     <language>Turkish</language>
+     <advanced>-v</advanced>
+     <logourl>http://upload.wikimedia.org/wikipedia/tr/1/1d/Planet_Pembe_logosu.png</logourl>
+   </stream>
+   <stream>
+     <title>Planet Sinema</title>
+     <swfUrl>http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf</swfUrl>
+     <link>rtmp://93.187.203.125:1935/live/</link>
+     <pageUrl>http://www.canli-tv-izle.org/canli-planet-sinema-tv-izle.html</pageUrl>
+     <playpath>planet4</playpath>
+     <language>Turkish</language>
+     <advanced />
+     <logourl>http://upload.wikimedia.org/wikipedia/tr/2/22/Planet_Sinema_logosu.png</logourl>
+   </stream>
+   <stream>
+     <title>Planet Türk</title>
+     <swfUrl>http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf</swfUrl>
+     <link>rtmp://93.187.203.125:1935/live/</link>
+     <pageUrl>http://www.canli-tv-izle.org/canli-planet-turk-tv-izle.html</pageUrl>
+     <playpath>planet1</playpath>
+     <language>Turkish</language>
+     <advanced>-v</advanced>
+     <logourl>http://upload.wikimedia.org/wikipedia/tr/8/8f/Planet_Türk_logosu.png</logourl>
+   </stream>
+   <stream>
+     <title>Samanyolu Avrupa</title>
+     <swfUrl>http://www.hdtvizle.com/proplayer/players/player.swf</swfUrl>
+     <link>rtmp://fml.ams.1B3E.edgecastcdn.net/201B3E</link>
+     <pageUrl>http://www.hdtvizle.com/166-samanyolu-avrupa-hd-izle.html</pageUrl>
+     <playpath>STVEU1</playpath>
+     <language>Turkish</language>
+     <advanced>-a 201B3E</advanced>
+     <logourl>http://upload.wikimedia.org/wikipedia/tr/d/d2/Samanyolu_Avrupa.jpg</logourl>
+   </stream>
+  <stream>
+  <title>CNBC-E Türkiye</title>
+  <link>rtmp://strm-3.tr.medianova.tv/tv_cnbce/cnbce3 swfurl=http://mnhst.mncdn.net/players/NTV/playerXML2.swf pageURL=http://cm.ntvmsnbc.com/ServerSite/wui/CNBCECanliYayin/default.aspx playpath=cnbce3 live=true swfVfy=true</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/CNBC-e_logosu.png/1280px-CNBC-e_logosu.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+  <title>Minika ÇOCUK</title>
+  <link>rtmp://live.minika.tv:443/minikacocuk swfurl=http://www.minika.com.tr/minika_tv/c/player/TMDMedia/TMDPlayer327.swf pageURL=http://www.minika.com.tr/minika_tv/minika_cocuk.aspx playpath=minikacocuk3 live=true swfVfy=true</link>
+  <logourl>http://www.lyngsat-logo.com/hires/mm/minika_cocuk.png</logourl>
+  <language>Turkish</language>
+  </stream>
+  <stream>
+  <title>Minika GO</title>
+  <link>rtmp://live.minika.tv:443/minika swfurl=http://www.minika.com.tr/minika_tv/c/player/TMDMedia/TMDPlayer327.swf pageURL=http://www.minika.com.tr/minika_tv/tv_test.aspx playpath=minika3 live=true swfVfy=true</link>
+  <logourl>http://www.lyngsat-logo.com/hires/mm/minika_go.png</logourl>
+  <language>Turkish</language>
+  </stream>
+</streams>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+	<stream>
+	<title>SF 1</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+  <link>rtmp://cp108341.live.edgefcs.net/live</link>
+  <pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+  <playpath>sf1_1_800@43046</playpath>
+  <language>Swiss</language>
+  <advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/SF1.svg/1000px-SF1.svg.png</logourl>
+	<epgid>teleboy:3</epgid>
+	</stream>
+	<stream>
+	<title>SF zwei</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+  <link>rtmp://cp108341.live.edgefcs.net/live</link>
+  <pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+  <playpath>sf2_1_800@43048</playpath>
+  <language>Swiss</language>
+  <advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/a/a9/SFzwei.svg/1000px-SFzwei.svg.png</logourl>
+	<epgid>teleboy:4</epgid>
+	</stream>
+	<stream>
+	<title>RSI LA 1</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108478.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wat.tv/swflive/]]></pageUrl>
+	<playpath>rsila1_1_800@45513</playpath>
+	<language>Swiss</language>
+	<advanced>swfsize=927444 swfhash=6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/it/0/0a/RSI_LA_1_hd.png</logourl>
+	<epgid>teleboy:14</epgid>
+	</stream>
+	<stream>
+	<title>RSI LA 2</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108478.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>rsila2_2_800@45514</playpath>
+	<language>Swiss</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/it/thumb/1/1b/RSI_La_2-hd-.svg/1000px-RSI_La_2-hd-.svg.png</logourl>
+	<epgid>teleboy:15</epgid>
+	</stream>
+	<stream>
+	<title>RTS un</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp115491.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>tsr1_1_800@45522 </playpath>
+	<language>Swiss</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RTS_un.svg/1000px-RTS_un.svg.png</logourl>
+	<epgid>teleboy:12</epgid>
+	</stream>
+	<stream>
+	<title>RTS deux</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp115491.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>tsr2_1_800@45523</playpath>
+	<language>Swiss</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/RTS_deux.svg/1000px-RTS_deux.svg.png</logourl>
+	<epgid>teleboy:13</epgid>
+	</stream>
+	<!--<stream>
+	<title>3+</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://.tv/player.swf</swfUrl>
+  <link>rtmp://.tv/live</link>
+  <pageUrl><![CDATA[http://.tv/025.3plus.php]]></pageUrl>
+  <playpath>3plusf456tggdgg5</playpath>
+  <advanced></advanced>
+  <language>Swiss</language>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_3plus.svg/1000px-Logo_3plus.svg.png</logourl>
+	<epgid>teleboy:138</epgid>
+	</stream>-->
+	<stream>
+	<title>la télé</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.latele.ch/webtv/MAPlayer.swf</swfUrl>
+	<link>rtmp://rtmp.infomaniak.ch:1935/livecast</link>
+	<pageUrl><![CDATA[http://www.latele.ch/]]></pageUrl>
+	<playpath>latele</playpath>
+	<language>Swiss</language>
+	<advanced></advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nouveau-logo-latele.png/1000px-Nouveau-logo-latele.png</logourl>
+	</stream>
+	<stream>
+	<title>Star TV</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v3.176.swf</swfUrl>
+	<link>rtmp://cp115491.live.edgefcs.net:1935/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com/]]></pageUrl>
+	<playpath>startv_1_800@45526</playpath>
+	<language>Swiss</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/1/10/Logo_Star_TV.svg/1000px-Logo_Star_TV.svg.png</logourl>
+	<epgid>teleboy:19</epgid>
+	</stream>
+	<stream>
+    <title>Schweizer Sportfernsehen</title>
+    <swfUrl>http://www.internettv.ch/swf/itvplayer.swf</swfUrl>
+    <link>rtmp://ipmedia.mpl.miisolutions.net/ipmedia-live01/_def</link>
+    <pageUrl>http://www.schweizersportfernsehen.ch/ssf/start.asp?</pageUrl>
+    <playpath>mp4:ssflive</playpath>
+    <language>Swiss</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Schweizer_Sportfernsehen.svg/1000px-Schweizer_Sportfernsehen.svg.png</logourl>
+    <epgid>teleboy:242</epgid>
+  </stream>
+	<stream>
+	<title>TeleZüri</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>telezueri_1_800@44503</playpath>
+	<language>Swiss</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/6/6f/Logo_TeleZüri.svg/1000px-Logo_TeleZüri.svg.png</logourl>
+	<epgid>teleboy:72</epgid>
+	</stream>
+	<stream>
+      <title>Telebasel</title>
+      <swfUrl>http://c31001-o.l.core.cdn.streamfarm.net/31001tv1kunde/web/flash/31016telebasel/liveFlvPlayer.swf</swfUrl>
+      <link>rtmp://xapp510394c1000199.f.l.f.lb.core-cdn.net:1935/1000199copo</link>
+      <pageUrl><![CDATA[http://www.telebasel.ch/de/home/]]></pageUrl>
+      <playpath>live/app510394368/w509050881/live_de_500</playpath>
+      <advanced></advanced>
+      <language>Swiss</language>
+      <logourl>http://upload.wikimedia.org/wikipedia/de/thumb/9/93/Logo_TeleBasel.svg/1000px-Logo_TeleBasel.svg.png</logourl>
+      <epgid>teleboy:21</epgid>
+  </stream>
+	<stream>
+	<title>joiz</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>joiz_1_800@52728</playpath>
+	<language>Swiss</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/3/35/JOIZ.svg/1000px-JOIZ.svg.png</logourl>
+	<epgid>teleboy:279</epgid>
+	</stream>
+</streams>

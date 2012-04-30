@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+<stream>
+<title>TF1 HD</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>9</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/8/85/TF1.svg/1000px-TF1.svg.png</logourl>
+<epgid>guidetele:1</epgid>
+</stream>
+<stream>
+<title>France 2 HD</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>7</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_France_2.svg/1000px-Logo_France_2.svg.png</logourl>
+<epgid>guidetele:2</epgid>
+</stream>
+<stream>
+<title>France 3</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>12</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_France_3.svg/1000px-Logo_France_3.svg.png</logourl>
+<epgid>guidetele:3</epgid>
+</stream>
+<stream>
+<title>France 4</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>13</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/9/90/France4-2011.svg/1000px-France4-2011.svg.png</logourl>
+<epgid>guidetele:28</epgid>
+<language>French</language>
+</stream>
+<stream>
+<title>France 5 HD</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>14</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/2/26/Logo_France_5.svg/1000px-Logo_France_5.svg.png</logourl>
+<epgid>guidetele:7</epgid>
+<language>French</language>
+</stream>
+<stream>
+<title>M6 HD</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>8</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/4/42/M6HD_2011.png</logourl>
+<epgid>guidetele:6</epgid>
+</stream>
+<stream>
+<title>Canal+</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.wat.tv/swflive.swf</swfUrl>
+<link>rtmp://cp59069.live.edgefcs.net:1935/live?ovpfv=1.1/</link>
+<pageUrl><![CDATA[http://www.wat.tv/swflive]]></pageUrl>
+<playpath>Flash-Occultation-80@9004</playpath>
+<language>French</language>
+<advanced></advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1000px-Canal%2B.svg.png</logourl>
+<epgid>guidetele:4</epgid>
+</stream>
+<stream>
+<title>W9</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>10</playpath>
+<language>French</language>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_W9HD_2011.svg/1000px-Logo_W9HD_2011.svg.png</logourl>
+<language>French</language>
+<epgid>guidetele:38</epgid>
+</stream>
+<stream>
+<title>NRJ 12</title>
+<link>rtmp://tv.futubox.com/fb playpath=z010110.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/e/ea/NRJ12.png</logourl>
+<language>French</language>
+<epgid>guidetele:169</epgid>
+</stream>
+<stream>
+<title>TMC</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>11</playpath>
+<language>French</language>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/TMC_new.svg/1000px-TMC_new.svg.png</logourl>
+<language>French</language>
+<epgid>guidetele:9</epgid>
+</stream>
+<stream>
+<title>ARTE</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+<link>rtmp://cp108478.live.edgefcs.net/live</link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath>arte_fr_1_800@45512</playpath>
+<language>French</language>
+<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Arte_2011.svg/1000px-Arte_2011.svg.png</logourl>
+<epgid>guidetele:5</epgid>
+</stream>
+<stream>
+<title>i>Télé</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://player.canalplus.fr/site/flash/player.swf</swfUrl>
+<link>rtmp://cp59069.live.edgefcs.net/live/Flash-Itele-800@8998/</link>
+<pageUrl><![CDATA[http://www.itele.fr/direct/]]></pageUrl>
+<playpath>Flash-Itele-800@8998</playpath>
+<language>French</language>
+<advanced></advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/I-tele_2008_logo.svg/1000px-I-tele_2008_logo.svg.png</logourl>
+<epgid>guidetele:122</epgid>
+</stream>
+<stream>
+<title>France 24 HD</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+<link>rtmp://tv.futubox.com/fb</link>
+<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+<playpath>39</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/FRANCE24.svg/1000px-FRANCE24.svg.png</logourl>
+<epgid>guidetele:410</epgid>
+</stream>
+<stream>
+<title>TV5Monde</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+<link>rtmp://cp108478.live.edgefcs.net/live</link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath>tv5monde_1_800@45511</playpath>
+<language>French</language>
+<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/TV5Monde_Logo.svg/1000px-TV5Monde_Logo.svg.png</logourl>
+<epgid>guidetele:10</epgid>
+</stream>
+<stream>
+<title>BFM TV</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://admin.brightcove.com/viewer/us20120127.1119/federatedVideoUI/BrightcovePlayer.swf</swfUrl>
+<link>rtmp://vipwowza.yacast.net:1935/bfmtv_live</link>
+<pageUrl><![CDATA[http://www.bfmtv.com/direct/]]></pageUrl>
+<playpath>bfmtv.stream</playpath>
+<language>French</language>
+<advanced>live=1</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/1000px-BFM_TV.svg.png</logourl>
+<epgid>guidetele:194</epgid>
+</stream>
+<stream>
+<title>EuroNews</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://fr.euronews.net/media/player_live_1_12.swf</swfUrl>
+<link>rtmp://fr-par-1.stream-relay.hexaglobe.net:1935/rtpeuronewslive</link>
+<pageUrl><![CDATA[http://fr.euronews.net/infos/en-direct/]]></pageUrl>
+<playpath>fr_video750_flash_all.sdp</playpath>
+<language>French</language>
+<advanced></advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Euronews_logo_2008.svg/1000px-Euronews_logo_2008.svg.png</logourl>
+<epgid>guidetele:121</epgid>
+</stream>
+<stream>
+<title>TVPI En Direct</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.tvpi.fr/mediaplayer/player.swf</swfUrl>
+<link>rtmp://str-flv.oc3n.net/live/tvpi/</link>
+<pageUrl><![CDATA[http://www.tvpi.fr/tvpi-en-direct/]]></pageUrl>
+<playpath>tvpi</playpath>
+<language>French</language>
+<advanced></advanced>
+</stream>
+</streams>

@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+  <stream>
+    <title>Первый Канал</title>
+    <swfUrl>http://tvsector.com/mediaplayer/player.swf</swfUrl>
+    <link>rtmp://s7.webport.tv/live</link>
+    <pageUrl>http://tvsector.com/</pageUrl>
+    <playpath>z040002.stream</playpath>
+    <language>Russian</language>
+    <advanced>live=1</advanced>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1канал-5.svg/1000px-1канал-5.svg.png</logourl>
+    <epgid>teleguideru:1</epgid>
+    <backup>
+      <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+      <link>rtmp://213.186.127.42:1935/live/</link>
+      <pageUrl>http://kaban.tv/pervii-kanal-online</pageUrl>
+      <playpath>first.stream</playpath>
+    </backup>
+  </stream>
+<stream>
+  <title>Россия-1</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/rossiya-1-online</pageUrl>
+  <playpath>rus1.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/1000px-Rossiya-1_Logo.svg.png</logourl>
+  <epgid>teleguideru:2</epgid>
+</stream>
+<stream>
+  <title>Россия-2</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/rossiya-2-online</pageUrl>
+  <playpath>rus2.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rossiya-2_Logo.svg/1000px-Rossiya-2_Logo.svg.png</logourl>
+  <epgid>teleguideru:235</epgid>
+</stream>
+<stream>
+  <title>Россия К</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/rossiya-k-online</pageUrl>
+  <playpath>kultura.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Rossiya-K_Logo.svg/1000px-Rossiya-K_Logo.svg.png</logourl>
+  <epgid>teleguideru:5</epgid>
+</stream>
+<stream>
+  <title>Пятый Канал</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/5kanal-online</pageUrl>
+  <playpath>5kanal.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1000px-5-tv.svg.png</logourl>
+  <epgid>teleguideru:255</epgid>
+</stream>
+<stream>
+  <title>CTC HD</title>
+  <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  <link>rtmp://s7.webport.tv/live</link>
+  <pageUrl>http://tvsector.com/</pageUrl>
+  <playpath>z040003.stream</playpath>
+  <language>Russian</language>
+  <advanced>live=1</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/d/d3/Logo_CTC_TV.png</logourl>
+  <epgid>teleguideru:104</epgid>
+  <backup>
+    <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+    <link>rtmp://213.186.127.42:1935/live/</link>
+    <pageUrl>http://kaban.tv/sts-online</pageUrl>
+    <playpath>sts.stream</playpath>
+  </backup>
+</stream>
+<stream>
+  <title>THT HD</title>
+  <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  <link>rtmp://s7.webport.tv/live</link>
+  <pageUrl>http://tvsector.com/</pageUrl>
+  <playpath>z040004.stream</playpath>
+  <language>Russian</language>
+  <advanced>live=1</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/7/76/ТНТ_logo.png</logourl>
+  <epgid>teleguideru:101</epgid>
+</stream>
+<stream>
+  <title>ТВЦ</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/tvc-online</pageUrl>
+  <playpath>tvc.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Tsentr_Full_Logo.svg/1000px-TV_Tsentr_Full_Logo.svg.png</logourl>
+  <epgid>teleguideru:3</epgid>
+</stream>
+<stream>
+  <title>НТВ</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/ntv-online</pageUrl>
+  <playpath>ntv.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1000px-NTV_logo_2003.svg.png</logourl>
+  <epgid>teleguideru:4</epgid>
+</stream>
+<stream>
+  <title>РЕН ТВ</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/ren-online</pageUrl>
+  <playpath>ren.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:103</epgid>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/7/7d/REN.svg/1000px-REN.svg.png</logourl>
+</stream>
+<stream>
+  <title>Домашний</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/domashnii-online</pageUrl>
+  <playpath>dom.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/thumb/2/20/Логотип_телеканала_Домашний.svg/1000px-Логотип_телеканала_Домашний.svg.png</logourl>
+  <epgid>teleguideru:102</epgid>
+</stream>
+<stream>
+  <title>Дождь</title>
+  <swfUrl>http://www.corbina.tv/flash/swf/player.swf</swfUrl>
+  <link>rtmp://n3.mos.cdn.online.ru/live-r</link>
+  <pageUrl>http://www.corbina.tv/tv/rbc</pageUrl>
+  <playpath>cz5WmJxh3EBKZh0Q</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/a/a4/Dojd-Optimistic-Channel.png</logourl>
+  <epgid>teleguideru:300108</epgid>
+</stream>
+<stream>
+  <title>Восьмой канал</title>
+  <swfUrl>http://8tv.ru/flashp/flowplayer.commercial-3.2.5-4.swf</swfUrl>
+  <link>rtmp://air.8tv.ru/</link>
+  <pageUrl>http://8tv.ru/</pageUrl>
+  <playpath>stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/f/fb/Восьмой_канал_%28Россия%29.jpg</logourl>
+  <epgid>teleguideru:946</epgid>
+</stream>
+<stream>
+  <title>Раз ТВ</title>
+  <swfUrl>http://nashgorod.pnz.ru/XML/player.swf</swfUrl>
+  <link>rtmp://83.229.210.89/Gde_i_Kto</link>
+  <pageUrl>http://nashgorod.pnz.ru/index5_5.html</pageUrl>
+  <playpath>gdeikto500</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://www.lyngsat-logo.com/hires/rr/raz_tv.png</logourl>
+  <epgid>teleguideru:300103</epgid>
+</stream>
+<stream>
+  <title>Первый Интернет Канал HD</title>
+  <swfUrl>http://pik-tv.com/players/uppod/uppod.swf</swfUrl>
+  <link>rtmp://wms002.pik-tv.com/live/</link>
+  <pageUrl>http://pik-tv.com/</pageUrl>
+  <playpath>piktv3pik3tv</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://media.mikandr.com/images/pik-tv.png</logourl>
+</stream>
+<stream>
+  <title>TB3</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/tv3-online</pageUrl>
+  <playpath>tv3.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/0/01/Логотип_телеканала_ТВ3.png</logourl>
+  <epgid>teleguideru:105</epgid>
+</stream>
+<stream>
+  <title>Живи</title>
+  <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+  <link>rtmp://live.jv.ru/live/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/zhivi_onlajn_transljacija/2-1-0-217</pageUrl>
+  <playpath>live1</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:672</epgid>
+  <logourl>http://most-tv.ru/sites/most-tv.ru/files/imagecache/channel_logo/images_channels/jv.png</logourl>
+</stream>
+<stream>
+  <title>Animal Planet</title>
+  <swfUrl>http://intv.ua/jwplayer57/player.swf</swfUrl>
+  <link>rtmp://95.67.65.136:1935/rtplive</link>
+  <pageUrl>http://intv.ua/</pageUrl>
+  <playpath>animalplanet_m.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:214</epgid>
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/thumb/a/a9/Animal_Planet_Logo.svg/1000px-Animal_Planet_Logo.svg.png</logourl>
+</stream>
+<stream>
+  <title>Discovery</title>
+  <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+  <link>rtmp://94.102.56.186/histream</link>
+  <pageUrl>http://www.histream.tv/embedTele.php?</pageUrl>
+  <playpath>televisadiscovery</playpath>
+  <language>Russian</language>
+  <advanced>live=1</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Discovery_Channel_International.svg/1000px-Discovery_Channel_International.svg.png</logourl>
+  <epgid>teleguideru:226</epgid>
+</stream>
+<stream>
+  <title>National Geographic</title>
+  <swfUrl>http://intv.ua/jwplayer57/player.swf</swfUrl>
+  <link>rtmp://95.67.65.136:1935/rtplive</link>
+  <pageUrl>http://intv.ua/</pageUrl>
+  <playpath>ng_m.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:284</epgid>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1000px-National_Geographic_Channel.svg.png</logourl>
+</stream>
+<stream>
+  <title>Россия 24</title>
+  <swfUrl>http://www.planeta-online.tv/planeta_player.swf</swfUrl>
+  <link>rtmp://www.planeta-online.tv:1936/rtplive/vesti_24.sdp</link>
+  <pageUrl>www.planeta-online.tv/?ch=15</pageUrl>
+  <playpath>vesti_24.sdp</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1000px-Rossiya-24_Logo.svg.png</logourl>
+  <epgid>teleguideru:676</epgid>
+</stream>
+<stream>
+  <title>Москва 24</title>
+  <swfUrl>_</swfUrl>
+  <link>rtmp://83.229.210.89/Stolica/stolica500</link>
+  <pageUrl>_</pageUrl>
+  <playpath>stolica500</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/2/2a/Москва24.PNG</logourl>
+  <epgid>teleguideru:106</epgid>
+</stream>
+<stream>
+  <title>Первый канал европа</title>
+  <swfUrl>http://intv.ua/jwplayer57/player.swf</swfUrl>
+  <link>rtmp://95.67.65.136:1935/rtplive</link>
+  <pageUrl>http://intv.ua/</pageUrl>
+  <playpath>pervyi_evropa_m.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1канал-5.svg/1000px-1канал-5.svg.png</logourl>
+  <epgid>teleguideru:300111</epgid>
+</stream>
+<stream>
+  <title>Russia Today</title>
+  <swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+  <link>rtmp://cp115491.live.edgefcs.net/live</link>
+  <pageUrl>http://www.wilmaa.com</pageUrl>
+  <playpath>rusiya_1_800@45521</playpath>
+  <language>Russian</language>
+  <advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1000px-Russia-today-logo.svg.png</logourl>
+  <epgid>teleguideru:100036</epgid>
+</stream>
+<stream>
+  <title>РТР-Планета</title>
+  <swfUrl>http://nashgorod.pnz.ru/XML/player.swf</swfUrl>
+  <link>rtmp://www.planeta-online.tv:1936/rtplive/</link>
+  <pageUrl>http://nashgorod.pnz.ru/index2_13.html</pageUrl>
+  <playpath>planeta.sdp</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/en/b/b1/RTR_Planeta.png</logourl>
+  <epgid>teleguideru:300057</epgid>
+</stream>
+<stream>
+  <title>EuroNews</title>
+  <swfUrl>http://ru.euronews.net/media/player_live_1_12.swf</swfUrl>
+  <link>rtmp://fr-par-2.stream-relay.hexaglobe.net:1935/rtpeuronewslive</link>
+  <pageUrl>http://ru.euronews.net/news/streaming-live/</pageUrl>
+  <playpath>ru_video750_flash_all.sdp</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euronews_logo.svg/1000px-Euronews_logo.svg.png</logourl>
+  <epgid>teleguideru:208</epgid>
+</stream>
+<stream>
+  <title>Перец ТВ</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/perec-online</pageUrl>
+  <playpath>perec.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://ryazan.multinex.ru/image/logo_chann/logo_perets.png</logourl>
+  <epgid>teleguideru:109</epgid>
+</stream>
+<stream>
+  <title>Звезда</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/zvezda-online</pageUrl>
+  <playpath>zvezda.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:330</epgid>
+  <logourl>http://images2.wikia.nocookie.net/__cb20120126162212/tvpedia/ru/images/f/f4/Звезда_4_%28без_надписи%29.png</logourl>
+</stream>
+<stream>
+  <title>ВКТ</title>
+  <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+  <link>rtmp://vkt.cdnvideo.ru/rtp/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/live_tv/razvlekatelnye/vkt/7-1-0-102</pageUrl>
+  <playpath>2</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:300067</epgid>
+  <logourl>http://ovego.3dn.ru/img2/vct.gif</logourl>
+</stream>
+<stream>
+  <title>Юмор Box</title>
+  <swfUrl>http://www.corbina.tv/flash/swf/player.swf</swfUrl>
+  <link>rtmp://n3.mos.cdn.online.ru/live-r</link>
+  <pageUrl>http://www.corbina.tv/tv/rbc</pageUrl>
+  <playpath>udp://0.0.0.0:3081</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:300042</epgid>
+  <logourl>http://1tv.ucoz.ru/logo_channel/humor_tv.jpg</logourl>
+</stream>
+<stream>
+  <title>Инва Медиа ТВ</title>
+  <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+  <link>rtmp://aloha.cdnvideo.ru:1935/aloha-live/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/live_tv/ehfir/inva_tv/9-1-0-750</pageUrl>
+  <playpath>invatv.sdp</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://www.cktv.ru/img/tv/124_inva-tv.jpg</logourl>
+</stream>
+<stream>
+  <title>Моторы</title>
+  <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+  <link>rtmp://109.124.64.167/live/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/live_tv/razvlekatelnye/pervyj_avtomobilnyj/7-1-0-755</pageUrl>
+  <playpath>autotv1</playpath>
+  <language>Russian</language>
+  <advanced />
+</stream>
+<stream>
+  <title>Коммерсантъ ТВ</title>
+  <swfUrl>http://ovego.3dn.ru/tvplayer.swf</swfUrl>
+  <link>rtmp://87.245.207.15:1935/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/live_tv/novosti/kommersant_tv/5-1-0-751</pageUrl>
+  <playpath>kommersant-sd/live/russian</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/d/df/Kommersant_TV_logo.png</logourl>
+</stream>
+<stream>
+  <title>Ocean TV</title>
+  <swfUrl>http://www.corbina.tv/flash/swf/player.swf</swfUrl>
+  <link>rtmp://n3.mos.cdn.online.ru/live-r</link>
+  <pageUrl>http://www.corbina.tv/tv/rbc</pageUrl>
+  <playpath>udp://0.0.0.0:3079</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:636</epgid>
+  <logourl>http://aquajournal.ru/files/ocean_tv.jpg</logourl>
+</stream>
+<stream>
+  <title>Подмосковье</title>
+  <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+  <link>rtmp://cdn.mosobltv.ru/rtp-stream/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/live_tv/ehfir/podmoskove/9-1-0-248</pageUrl>
+  <playpath>mosobltv.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:300092</epgid>
+  <logourl>http://mosobltv.ru/Esdbpics/motv_logo1.jpg</logourl>
+</stream>
+<stream>
+  <title>Премьера</title>
+  <swfUrl>http://www.planeta-online.tv/planeta_player.swf</swfUrl>
+  <link>rtmp://www.planeta-online.tv:1936/live/</link>
+  <pageUrl>http://www.planeta-online.tv/channels/5.html</pageUrl>
+  <playpath>channel_5</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://www.ntvplus.ru/files/2011/01/12/271599.jpg</logourl>
+  <epgid>teleguideru:203</epgid>
+</stream>
+<stream>
+  <title>Просвещение</title>
+  <swfUrl>www.planeta-online.tv/planeta_player.swf</swfUrl>
+  <link>rtmp://prosveshenie.cdnvideo.ru/prosveshenie-live/prosveshenie</link>
+  <pageUrl>www.planeta-online.tv/?ch=29</pageUrl>
+  <playpath>prosveshenie</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://www.prosveshenie.tv/images/logo.jpg</logourl>
+</stream>
+<stream>
+  <title>Всегда с тобой</title>
+  <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+  <link>rtmp://81.177.35.218/rtp/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/live_tv/ehfir/vsegda_s_toboj/9-1-0-241</pageUrl>
+  <playpath>1</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl><![CDATA[http://www.vsegda.tv/uploads/images/promoVsegaTV%20(0-00-03-20)(1).jpg]]></logourl>
+</stream>
+<stream>
+  <title>MTV Russia</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/mtv-online</pageUrl>
+  <playpath>mtv.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:107</epgid>
+  <logourl>http://michaeljlewis.files.wordpress.com/2011/07/mtv-logo.png</logourl>
+</stream>
+<stream>
+  <title>Муз ТВ</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/muz-tv-online</pageUrl>
+  <playpath>muztv.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:108</epgid>
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/5/56/Muz-tv_logo_%282011%29.png</logourl>
+</stream>
+<stream>
+  <title>Bridge TV</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/bridge-tv-online</pageUrl>
+  <playpath>bridgetv.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:300037</epgid>
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/4/4e/Bridge_tv_logo.png</logourl>
+</stream>
+<stream>
+  <title>O² ТВ</title>
+  <swfUrl>http://www.corbina.tv/flash/swf/player.swf</swfUrl>
+  <link>rtmp://n2.mos.cdn.online.ru/live-r</link>
+  <pageUrl>http://www.corbina.tv/tv/ners</pageUrl>
+  <playpath>udp://0.0.0.0:3096</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://s39.radikal.ru/i086/1005/f0/0aaafa14b27e.jpg</logourl>
+  <epgid>teleguideru:369</epgid>
+</stream>
+<stream>
+  <title>9 Волна</title>
+  <swfUrl>http://ovego.3dn.ru/file/uppod.swf</swfUrl>
+  <link>rtmp://176.9.127.102/live/</link>
+  <pageUrl>http://ovego.3dn.ru/publ/live_tv/muzyka/9_vollna_onlajn_transljacija/4-1-0-158</pageUrl>
+  <playpath>myStream_1</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://www.cktv.ru/img/tv/1026.jpg</logourl>
+</stream>
+<stream>
+  <title>RAP.RU</title>
+  <swfUrl>http://yatv.ru/files/swf/player.swf</swfUrl>
+  <link>rtmp://r0.d1.yatv.ru:1935/live/1gtvru/</link>
+  <pageUrl>http://yatv.ru/1gtvru/</pageUrl>
+  <playpath>1gtvstream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://userlogos.org/files/logos/Rog/rap.ru-01.png</logourl>
+</stream>
+<stream>
+  <title>A-One</title>
+  <swfUrl>http://www.a1tv.ru/player/swf/player.swf</swfUrl>
+  <link>rtmp://a1tv.cdnvideo.ru/a1tv-live/</link>
+  <pageUrl>http://www.a1tv.ru/online/flash/</pageUrl>
+  <playpath>22</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:503</epgid>
+  <logourl>http://atalyants.files.wordpress.com/2010/06/a1tv1.jpg?w=500</logourl>
+</stream>
+<stream>
+  <title>Admiral Disco</title>
+  <swfUrl>http://yatv.ru/files/swf/player.swf</swfUrl>
+  <link>rtmp://m1.d1.yatv.ru:1935/live/admiral-disco/</link>
+  <pageUrl>http://yatv.ru/admiral-disco/</pageUrl>
+  <playpath>digitv</playpath>
+  <language>Russian</language>
+  <advanced />
+</stream>
+<stream>
+  <title>Хип Хоп Хит ТВ</title>
+  <swfUrl>http://wwitv.com/player/player6.swf</swfUrl>
+  <link>rtmp://broadcast04.quantumart.ru/hiphophit/hiphophit</link>
+  <pageUrl>http://wwitv.com/tv_channels/b6182.htm</pageUrl>
+  <playpath>hiphophit</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://hiphophit.tv/upload/contents/287/logo.png</logourl>
+</stream>
+<stream>
+  <title>FreshTV</title>
+  <swfUrl>http://www.planeta-online.tv/planeta_player.swf</swfUrl>
+  <link>rtmp://www.planeta-online.tv:1936/live/</link>
+  <pageUrl>http://www.planeta-online.tv/?ch=4</pageUrl>
+  <playpath>channel_4</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://www.planeta-online.tv/uploads/news_photo/big/767d123afdf5d8ce9b6a34b97e25e917.jpg</logourl>
+</stream>
+<stream>
+  <title>Союз</title>
+  <swfUrl>http://www.planeta-online.tv/planeta_player.swf</swfUrl>
+  <link>rtmp://www.planeta-online.tv:1936/live/soyuz</link>
+  <pageUrl>www.planeta-online.tv/?ch=28</pageUrl>
+  <playpath>soyuz</playpath>
+  <language>Russian</language>
+  <advanced>live=1</advanced>
+  <logourl>http://sapernoe.ru/video/zastavka_tv_soyuz_560.jpg</logourl>
+  <epgid>teleguideru:300006</epgid>
+</stream>
+<stream>
+  <title>World Fashion Channel</title>
+  <swfUrl>http://sakitvs.com/player/play.swf</swfUrl>
+  <link>rtmp://freebandbusiness.fms.visionip.tv/live</link>
+  <pageUrl>http://www.sakitvs.com/nickt.htm</pageUrl>
+  <playpath>freeband_business-world_fashion-live-25f-4x3_2</playpath>
+  <language>Russian</language>
+  <advanced />
+  <epgid>teleguideru:100017</epgid>
+  <logourl>http://www.lyngsat-logo.com/hires/ww/world_fashion_channel.png</logourl>
+</stream>
+<stream>
+  <title>Спас ТВ</title>
+  <swfUrl>http://www.corbina.tv/flash/swf/player.swf</swfUrl>
+  <link>rtmp://n3.mos.cdn.online.ru/live-r</link>
+  <pageUrl>http://www.corbina.tv/tv/rbc</pageUrl>
+  <playpath>udp://0.0.0.0:3090</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/5/5d/Спас.png</logourl>
+  <epgid>teleguideru:222</epgid>
+</stream>
+<stream>
+  <title>Канал Disney</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/7tv-online</pageUrl>
+  <playpath>7tv.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/e/e3/Канал_Disney_2011.png</logourl>
+  <epgid>teleguideru:100055</epgid>
+</stream>
+<stream>
+  <title>Карусель</title>
+  <swfUrl>http://kaban.tv/uppod.swf</swfUrl>
+  <link>rtmp://213.186.127.42:1935/live/</link>
+  <pageUrl>http://kaban.tv/karusel-online</pageUrl>
+  <playpath>karusel.stream</playpath>
+  <language>Russian</language>
+  <advanced />
+  <logourl>http://upload.wikimedia.org/wikipedia/ru/5/5d/Логотип_телеканала_Карусель.png</logourl>
+  <epgid>teleguideru:300007</epgid>
+</stream>
+</streams>

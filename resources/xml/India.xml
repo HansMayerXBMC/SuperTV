@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+  <stream>
+    <title>DD National</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywaydd_national150.sdp</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/en/6/68/Doordarshan.png</logourl>
+    <epgid>whatsonindia:0980</epgid>
+  </stream>
+  <stream>
+    <title>Star Plus</title>
+    <swfUrl>http://www.startv.in/flash/liveplayer.swf?cid=1</swfUrl>
+    <link>rtmp://cp133308.live.edgefcs.net/live/</link>
+    <pageUrl>http://www.startv.in/</pageUrl>
+    <playpath>starplus1@62077</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://images2.wikia.nocookie.net/__cb20100619101411/logopedia/images/f/fc/StarPlus_2010.png</logourl>
+    <epgid>whatsonindia:0080</epgid>
+  </stream>
+  <stream>
+    <title>Life OK</title>
+    <swfUrl>http://livedesitv.ucoz.com/LIVEDESIdotTV/desiplayer/player2.swf</swfUrl>
+    <link>rtmp://122.160.220.49:1935/live</link>
+    <pageUrl>http://ninjantv.in</pageUrl>
+    <playpath>STARONE_HVGA.sdp</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/en/8/83/Life-ok-350x230.jpg</logourl>
+    <epgid>whatsonindia:0090|nochk</epgid>
+  </stream>
+  <stream>
+    <title>Sahara One</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://zengatv.com</pageUrl>
+    <playpath>mywaysaharaone150.sdp</playpath>
+    <language>Hindi</language>
+    <advanced>-v -a live</advanced>
+    <logourl>http://images2.wikia.nocookie.net/__cb20111007142831/logopedia/images/1/1b/Sahara_One_2011.png</logourl>
+    <epgid>whatsonindia:1320</epgid>
+  </stream>
+  <stream>
+    <title>Bindass</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywaybin150.sdp</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://images1.wikia.nocookie.net/__cb20111018100003/logopedia/images/4/41/UTV_Bindass_2010.png</logourl>
+    <epgid>whatsonindia:2710</epgid>
+  </stream>
+  <stream>
+    <title>Colors</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://zengatv.com</pageUrl>
+    <playpath>mywaycol150.sdp</playpath>
+    <language>Hindi</language>
+    <advanced>-v -a live</advanced>
+    <logourl>http://images2.wikia.nocookie.net/__cb20111013225804/logopedia/images/3/33/Colors_TV.png</logourl>
+    <epgid>whatsonindia:4170</epgid>
+  </stream>
+  <stream>
+    <title>Sri Venkateswara Bhakti Channel</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=13</pageUrl>
+    <playpath>svbc</playpath>
+    <language>Telugu</language>
+    <advanced />
+    <logourl>http://1.bp.blogspot.com/-H01v-rx0SGs/Ta36_q1KxqI/AAAAAAAAACs/0ptJGun6cUg/s320/svbc_in.png</logourl>
+    <epgid>whatsonindia:3820</epgid>
+  </stream>
+  <stream>
+    <title>NDTV Good Times</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk1</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=205</pageUrl>
+    <playpath>ndtvgoodtimes900</playpath>
+    <language>English</language>
+    <advanced />
+    <backup>
+      <swfUrl>http://zengatv.com/player.swf</swfUrl>
+      <link>rtmp://122.248.252.56/live</link>
+      <pageUrl>http://zengatv.com</pageUrl>
+      <playpath>mywaygoodtimes150.sdp</playpath>
+    </backup>
+    <logourl>http://images1.wikia.nocookie.net/__cb20100428143009/logopedia/images/3/32/NDTV_Good_Times.png</logourl>
+    <epgid>whatsonindia:2700</epgid>
+  </stream>
+  <stream>
+    <title>Discovery Turbo</title>
+    <swfUrl>http://www.flashsportstreams.info/mediaplayer/player.swf</swfUrl>
+    <link>rtmp://122.160.220.49/live/</link>
+    <pageUrl>http://www.sakitvs.com</pageUrl>
+    <playpath>DISCOVERYTURBO_HVGA.sdp</playpath>
+    <language>English</language>
+    <advanced />
+    <logourl>http://images3.wikia.nocookie.net/__cb20110115110831/logopedia/images/thumb/0/0d/Discovery_Turbo.svg/1000px-Discovery_Turbo.svg.png</logourl>
+    <epgid>whatsonindia:5700</epgid>
+  </stream>
+  <stream>
+    <title>Filmy</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/filmy2.html</pageUrl>
+    <playpath>mywayfilmy150.sdp</playpath>
+    <language>Hindi</language>
+    <advanced>-v</advanced>
+    <logourl>http://images4.wikia.nocookie.net/__cb20111201122661/logopedia/images/0/0c/Filmy.png</logourl>
+    <epgid>whatsonindia:0790</epgid>
+  </stream>
+  <stream>
+    <title>UTV Action</title>
+    <swfUrl>http://www.veemi.com/player/player-licensed.swf</swfUrl>
+    <link>rtmp://159.253.145.184/live/_definst_/</link>
+    <pageUrl>http://www.veemi.com/</pageUrl>
+    <playpath>utvactionlive1</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://images1.wikia.nocookie.net/__cb20111201123905/logopedia/images/e/e9/UTV_Action.png</logourl>
+    <epgid>whatsonindia:2790</epgid>
+  </stream>
+  <stream>
+    <title>UTV Movies</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywaymov150.sdp</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://images1.wikia.nocookie.net/__cb20111201124616/logopedia/images/d/da/UTV_Movies_2010.png</logourl>
+    <epgid>whatsonindia:3510</epgid>
+    <backup>
+      <swfUrl>http://www.desihd.net/player.swf</swfUrl>
+      <link>rtmp://122.160.220.49/live</link>
+      <pageUrl>http://www.desihd.net/utv_movies.php</pageUrl>
+      <playpath>UTVMOVIES_HVGA.sdp</playpath>
+    </backup>
+  </stream>
+  <stream>
+    <title>DD News</title>
+    <swfUrl>http://webcast.gov.in/live/StrobeMediaPlayback.swf</swfUrl>
+    <link>rtmp://flashmedia.nic.in:80/live</link>
+    <pageUrl>http://webcast.gov.in/live/</pageUrl>
+    <playpath>dd1</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/en/6/68/Doordarshan.png</logourl>
+    <epgid>whatsonindia:1820</epgid>
+  </stream>
+  <stream>
+    <title>India TV</title>
+    <swfUrl>http://livetvcafe.net/player/jw_player_5/player3.SWF</swfUrl>
+    <link>rtmp://cdn.m.yupptv.tv/liveorigin</link>
+    <pageUrl>http://livetvcafe.net/</pageUrl>
+    <playpath>indiatv1</playpath>
+    <language>Hindi</language>
+    <advanced>-a liveorigin</advanced>
+    <logourl>http://www.lyngsat-logo.com/hires/ii/india_tv.png</logourl>
+    <epgid>whatsonindia:0910</epgid>
+  </stream>
+  <stream>
+    <title>IBN-7</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywayibn150.sdp</playpath>
+    <language>Hindi</language>
+    <advanced />
+    <logourl>http://www.lyngsat-logo.com/hires/ii/ibn7.png</logourl>
+    <epgid>whatsonindia:1180</epgid>
+  </stream>
+  <stream>
+    <title>NDTV Profit</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/pnwk1</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=204</pageUrl>
+    <playpath>ndtvprofit900</playpath>
+    <language>English</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/en/a/a3/NDTV-Profit.png</logourl>
+    <epgid>whatsonindia:0510</epgid>
+  </stream>
+  <stream>
+    <title>Times Now</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>timesnow</playpath>
+    <language>Hindi</language>
+    <advanced>-v</advanced>
+    <logourl>http://www.lyngsat-logo.com/hires/tt/times_now.png</logourl>
+    <epgid>whatsonindia:0870</epgid>
+    <backup>
+      <swfUrl>http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf</swfUrl>
+      <link>rtmp://cdn.m.yupptv.tv/liveorigin</link>
+      <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+      <playpath>timesnow1</playpath>
+    </backup>
+  </stream>
+  <stream>
+    <title>Discovery Channel</title>
+    <swfUrl>http://www.flashsportstreams.info/mediaplayer/player.swf</swfUrl>
+    <link>rtmp://122.160.220.49/live/</link>
+    <pageUrl>http://www.sakitvs.com/disind.htm</pageUrl>
+    <playpath>DISCOVERYCHANNEL_HVGA.sdp</playpath>
+    <language>English</language>
+    <advanced />
+    <epgid>whatsonindia:0310</epgid>
+  </stream>
+  <stream>
+    <title>Discovery Science</title>
+    <swfUrl>http://www.flashsportstreams.info/mediaplayer/player.swf</swfUrl>
+    <link>rtmp://122.160.220.49:1935/live/DISCOVERYSCIENCE_HVGA.sdp</link>
+    <pageUrl>http://www.sakitvs.com</pageUrl>
+    <playpath>DISCOVERYSCIENCE_HVGA.sdp</playpath>
+    <language>English</language>
+    <advanced />
+    <epgid>whatsonindia:3130</epgid>
+  </stream>
+  <stream>
+    <title>Channel V</title>
+    <swfUrl>http://www.startv.in/flash/liveplayer.swf</swfUrl>
+    <link>rtmp://cp133304.live.edgefcs.net/live/</link>
+    <pageUrl>http://www.startv.in/flash/liveplayer.swf?cid=8</pageUrl>
+    <playpath>channel1@62057</playpath>
+    <language>English</language>
+    <advanced>-a live/</advanced>
+    <logourl>http://images1.wikia.nocookie.net/__cb20110929115431/logopedia/images/b/b4/Channel_V.png</logourl>
+    <epgid>whatsonindia:0150</epgid>
+  </stream>
+  <stream>
+    <title>MTV India</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywaymtv150.sdp</playpath>
+    <language>English</language>
+    <advanced />
+    <logourl>http://www.80svjs.com/wp-content/uploads/2011/07/mtv.png</logourl>
+    <epgid>whatsonindia:0480</epgid>
+  </stream>
+  <stream>
+    <title>Sun TV</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>suntv</playpath>
+    <language>Tamil</language>
+    <advanced>-v</advanced>
+    <logourl>http://upload.wikimedia.org/wikipedia/en/6/62/Sun_TV_India.png</logourl>
+    <epgid>whatsonindia:0570</epgid>
+  </stream>
+  <stream>
+    <title>Star Vijay</title>
+    <swfUrl>http://www.flashsportstreams.info/mediaplayer/player.swf</swfUrl>
+    <link>rtmp://122.160.220.49/live/</link>
+    <pageUrl>http://www.sakitvs.com/stvijay.htm</pageUrl>
+    <playpath>STARVIJAY_HVGA.sdp</playpath>
+    <language>Tamil</language>
+    <advanced />
+    <logourl>http://images3.wikia.nocookie.net/__cb20110929123041/logopedia/images/7/7f/Star_Vijay.png</logourl>
+    <epgid>whatsonindia:0820</epgid>
+  </stream>
+  <stream>
+    <title>Jaya Max</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>jayamax</playpath>
+    <language>Tamil</language>
+    <advanced>-v</advanced>
+    <logourl>http://www.lyngsat-logo.com/logo/tv/jj/jaya_max.jpg</logourl>
+    <epgid>whatsonindia:4050</epgid>
+  </stream>
+  <stream>
+    <title>Jaya Plus</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>jayaplus</playpath>
+    <language>Tamil</language>
+    <advanced>-v</advanced>
+    <logourl>http://www.lyngsat-logo.com/logo/tv/jj/jaya_plus.jpg</logourl>
+    <epgid>whatsonindia:4030</epgid>
+  </stream>
+  <stream>
+    <title>Kalaignar TV</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk1</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=150</pageUrl>
+    <playpath>kalaignar</playpath>
+    <language>Tamil</language>
+    <advanced />
+    <logourl>http://upload.wikimedia.org/wikipedia/en/8/89/Kalaignar_tv_logo.jpg</logourl>
+    <epgid>whatsonindia:2990</epgid>
+  </stream>
+  <stream>
+    <title>Gemini Movies</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>geminimovies</playpath>
+    <language>Telugu</language>
+    <advanced>-v</advanced>
+    <epgid>whatsonindia:0610</epgid>
+  </stream>
+  <stream>
+    <title>Sakshi TV</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=61</pageUrl>
+    <playpath>sakshi</playpath>
+    <language>Telugu</language>
+    <advanced />
+    <epgid>whatsonindia:5050</epgid>
+  </stream>
+  <stream>
+    <title>Gemini</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>gemini</playpath>
+    <language>Telugu</language>
+    <advanced>-v</advanced>
+    <epgid>whatsonindia:0580</epgid>
+  </stream>
+  <stream>
+    <title>Maa TV</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywaymaatv150.sdp</playpath>
+    <language>Telugu</language>
+    <advanced />
+    <epgid>whatsonindia:1220</epgid>
+  </stream>
+  <stream>
+    <title>TV5</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=115</pageUrl>
+    <playpath>tv5</playpath>
+    <language>Telugu</language>
+    <advanced />
+    <backup>
+      <swfUrl>http://freetvall.com/player/jw_player_5/player3.SWF</swfUrl>
+      <link>rtmp://cdn.m.yupptv.tv/liveorigin/</link>
+      <pageUrl>http://freetvall.com</pageUrl>
+      <playpath>tv51</playpath>
+    </backup>
+    <epgid>whatsonindia:4400</epgid>
+  </stream>
+  <stream>
+    <title>NTV Telugu</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=58</pageUrl>
+    <playpath>ntv</playpath>
+    <language>Telugu</language>
+    <advanced />
+    <epgid>whatsonindia:4300</epgid>
+  </stream>
+  <stream>
+    <title>MAA Music</title>
+    <swfUrl>http://www.mylivetvchannels.com/player1.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/9xt.htm</pageUrl>
+    <playpath>mywaymaamusic150.sdp</playpath>
+    <language>Telugu</language>
+    <advanced />
+  </stream>
+  <stream>
+    <title>Udaya</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>udaya</playpath>
+    <language>Kannada</language>
+    <advanced>-v</advanced>
+    <epgid>whatsonindia:0650</epgid>
+  </stream>
+  <stream>
+    <title>Suvarna News 24x7</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>suvarna</playpath>
+    <language>Kannada</language>
+    <advanced>-v</advanced>
+    <epgid>whatsonindia:3810</epgid>
+  </stream>
+  <stream>
+    <title>Star Jalsha</title>
+    <swfUrl>http://desihd.net/desihdplayer.swf</swfUrl>
+    <link>rtmp://cp133305.live.edgefcs.net/live/</link>
+    <pageUrl>http://desihd.net/star-jalsha.php</pageUrl>
+    <playpath>starjalsha1@62072</playpath>
+    <language>Bengali</language>
+    <advanced>-a live/ -v</advanced>
+    <epgid>whatsonindia:4370</epgid>
+  </stream>
+  <stream>
+    <title>Rupashi Bangla</title>
+    <swfUrl>http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf</swfUrl>
+    <link>rtmp://cdn.m.yupptv.tv/liveorigin/</link>
+    <pageUrl>http://www.yupptv.com</pageUrl>
+    <playpath>rupashibangala9001</playpath>
+    <language>Bengali</language>
+    <advanced>-v swfVfy=1</advanced>
+    <epgid>whatsonindia:7290|nochk</epgid>
+  </stream>
+  <stream>
+    <title>Surya</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>surya</playpath>
+    <language>Malayalam</language>
+    <advanced>-v</advanced>
+    <epgid>whatsonindia:0670</epgid>
+  </stream>
+  <stream>
+    <title>Asianet</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>asianet</playpath>
+    <language>Malayalam</language>
+    <advanced>-v</advanced>
+    <epgid>whatsonindia:1470</epgid>
+  </stream>
+  <stream>
+    <title>Indiavision</title>
+    <swfUrl>http://player.longtailvideo.com/player5.7.swf</swfUrl>
+    <link>rtmp://live.wmncdn.net/indiavision</link>
+    <pageUrl>http://livetvchannelsfree.in/indiavision.html</pageUrl>
+    <playpath>indiavisiontv</playpath>
+    <language>Malayalam</language>
+    <advanced />
+    <epgid>whatsonindia:1280</epgid>
+  </stream>
+  <stream>
+    <title>Kairali TV</title>
+    <swfUrl>http://freetvall.com/player/jw_player_5/player3.SWF</swfUrl>
+    <link>rtmp://cdn.m.yupptv.tv/liveorigin</link>
+    <pageUrl>http://freetvall.com</pageUrl>
+    <playpath>kairali9002</playpath>
+    <language>Malayalam</language>
+    <advanced>-v</advanced>
+    <epgid>whatsonindia:1200</epgid>
+  </stream>
+  <stream>
+    <title>Tarang Music</title>
+    <swfUrl>http://webcast.gov.in/live/swfs/videoPlayer1.swf</swfUrl>
+    <link>rtmp://122.160.220.49/live</link>
+    <pageUrl>http://desihd.net/tarang-music.php</pageUrl>
+    <playpath>TARANGMUSIC_HVGA.sdp</playpath>
+    <language>Oriya</language>
+    <advanced />
+    <epgid>whatsonindia:6490</epgid>
+  </stream>
+  <stream>
+    <title>Tarang TV</title>
+    <swfUrl>http://webcast.gov.in/live/swfs/videoPlayer1.swf</swfUrl>
+    <link>rtmp://122.160.220.49/live</link>
+    <pageUrl>http://desihd.net/tarang-tv.php</pageUrl>
+    <playpath>TARANG_HVGA.sdp</playpath>
+    <language>Oriya</language>
+    <advanced />
+    <epgid>whatsonindia:6060</epgid>
+  </stream>
+  <stream>
+    <title>DD Urdu</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywaydd_urdu150.sdp</playpath>
+    <language>Urdu</language>
+    <advanced />
+    <epgid>whatsonindia:2910</epgid>
+  </stream>
+  <stream>
+    <title>Sahara Alami</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk2</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=143</pageUrl>
+    <playpath>saharaaalami</playpath>
+    <language>Urdu</language>
+    <advanced />
+  </stream>
+  <stream>
+    <title>DD Punjabi</title>
+    <swfUrl>http://zengatv.com/player.swf</swfUrl>
+    <link>rtmp://122.248.252.56/live</link>
+    <pageUrl>http://www.sakitvs.com/</pageUrl>
+    <playpath>mywaydd_punjabi150.sdp</playpath>
+    <language>Punjabi</language>
+    <advanced />
+    <epgid>whatsonindia:2630</epgid>
+  </stream>
+  <stream>
+    <title>NDTV Hindu</title>
+    <swfUrl>http://cdn.freedocast.com/player-octo/yume/v6/infinite-hd-player-FREEDOCAST.swf</swfUrl>
+    <link>rtmp://cdn.m.yupptv.tv/liveorigin/</link>
+    <pageUrl>http://www.yupptv.com/streams/saharabihar.aspx</pageUrl>
+    <playpath>ndtvhindu9001</playpath>
+    <language>Tamil</language>
+    <advanced>-v </advanced>
+  </stream>
+  <stream>
+    <title>GET Punjabi</title>
+    <swfUrl>http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf</swfUrl>
+    <link>rtmp://cdn.rtmp1.yupptv.tv/nwk2</link>
+    <pageUrl>http://www.yupptv.com/account/FlashPlayerFrame.aspx</pageUrl>
+    <playpath>channel9</playpath>
+    <language>Punjabi</language>
+    <advanced>-a nwk2</advanced>
+  </stream>
+</streams>

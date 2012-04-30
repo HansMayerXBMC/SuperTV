@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+<stream>
+  <title>ET1</title>
+  <link>rtmp://cp76856.live.edgefcs.net/live/GRERT_vid_nogeo_ET1@25926 pageURL=http://www.ert.gr/ swfVfy=true</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/4/44/ET1.png</logourl>
+  <language>Greek</language>
+  <epgid>rytecgr:et1.gr</epgid>
+</stream>
+<stream>
+  <title>NET</title>
+  <link>rtmp://cp76856.live.edgefcs.net/live/GRERT_vid_nogeo_NET@25927 pageURL=http://www.ert.gr/ swfVfy=true</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/1/11/New_Hellenic_Television.png</logourl>
+  <language>Greek</language>
+  <epgid>rytecgr:net.gr</epgid>
+</stream>
+<stream>
+  <title>ET3</title>
+  <link>rtmp://cp76856.live.edgefcs.net/live/GRERT_vid_nogeo_ET3@25928 pageURL=http://www.ert.gr/ swfVfy=true</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/0/03/ET3.png</logourl>
+  <language>Greek</language>
+  <epgid>rytecgr:et3.gr</epgid>
+</stream>
+<stream>
+  <title>ANT1</title>
+  <swfUrl>http://static.ant1.gr/live.ashx</swfUrl>
+  <link>rtmp://tmplive.ant1.gr:1935/live</link>
+  <pageUrl><![CDATA[ http://www.antenna.gr/webtv/live]]></pageUrl>
+  <playpath>ant1tvnilova</playpath>
+  <language>Greek</language>
+  <advanced>conn=B:0 swfVfy=1</advanced>
+  <logourl>http://www.lyngsat-logo.com/hires/aa/antenna1_gr.png</logourl>
+  <epgid>rytecgr:ant1.gr</epgid>
+</stream>
+<stream>
+  <title>Alpha</title>
+  <link>rtmp://178.162.134.45:80/kanali10</link>
+  <playpath>kanali10.sdp</playpath>
+  <pageUrl><![CDATA[http://kanalia.eu/player/flash/alpha_original.php]]></pageUrl>
+  <language>Greek</language>
+  <logourl>http://www.lyngsat-logo.com/hires/aa/alpha_sat.png</logourl>
+  <epgid>rytecgr:alpha.gr</epgid>
+</stream>
+<stream>
+  <title>MEGA</title>
+  <link>mms://wms-01.visionip.tv/Hellenic-mega?MSWMExt=.asf</link>
+  <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8he7ew.png</thumbnail>
+  <language>Greek</language>
+  <epgid>rytecgr:mega.gr</epgid>
+  <backup>
+    <link>rtmp://178.162.134.45:80/megaweb</link>
+    <playpath>megaweb.sdp</playpath>
+    <pageUrl><![CDATA[http://www.kanalia.eu/player/flash/mega_channel_original.php]]></pageUrl>
+  </backup>
+</stream>
+<stream>
+  <title>Star TV</title>
+  <link>mms://radiofeeds1.mediabox.gr/startv?MSWMExt=.asf</link>
+  <language>Greek</language>
+  <epgid>rytecgr:star.gr|nochk</epgid>
+</stream>
+<stream>
+  <title>Extra Channel 3</title>
+  <swfUrl>http://www.extra3.tv/media/imgs/AkamaiFlashPlayer.swf</swfUrl>
+  <link>rtmp://cp115021.live.edgefcs.net:1935/live</link>
+  <pageUrl><![CDATA[ http://www.extra3.tv/]]></pageUrl>
+  <playpath>extragtnet@49573</playpath>
+  <language>Greek</language>
+  <advanced/>
+  <logourl>http://www.extra3.tv/media/imgs/logo.gif</logourl>
+</stream>
+<stream>
+  <title>902 TV</title>
+  <link>mms://wms-03.visionip.tv/hellenic902?MSWMExt=.asf</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/2/28/902_TV.PNG</logourl>
+  <language>Greek</language>
+</stream>
+<stream>
+  <title>RIK Sat</title>
+  <link>mms://wms3.visionip.tv/Hellenic-1</link>
+  <logourl>http://upload.wikimedia.org/wikipedia/el/0/05/CyBClogo.jpg</logourl>
+  <language>Greek</language>
+</stream>
+<stream>
+  <title>TileSport</title>
+  <swfUrl>http://www.tilesport.tv/jwplayer/player.swf</swfUrl>
+  <link>rtmp://tv1.streampulse.eu/tilesport</link>
+  <pageUrl><![CDATA[ http://www.tilesport.tv/index_live.php]]>  </pageUrl>
+  <playpath>movie1</playpath>
+  <language>Greek</language>
+  <advanced>-a tilesport</advanced>
+</stream>
+</streams>

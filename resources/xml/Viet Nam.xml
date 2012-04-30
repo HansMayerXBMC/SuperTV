@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+	<stream>
+	<title>VTV1</title>
+	<link>rtmp://66.160.142.197:1935/live</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<playpath>vtv11</playpath>
+	<pageUrl><![CDATA[http://vtc.com.vn/#/VTV1/15]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/vi/7/78/VTV1.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtv:VTV1</epgid>
+	<backup>
+    <link>rtmp://112.197.2.11:1935/live/vtv1.stream</link>
+    <swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+    <pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+    <advanced></advanced>
+	</backup>
+	</stream>
+	<stream>
+	<title>VTV2</title>
+	<link>rtmp://66.160.142.197:1935/live/vtv2</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://vtc.com.vn/#/VTV2/23]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/vi/7/7b/VTV2.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtv:VTV2</epgid>
+	<backup>
+	  <swfUrl>http://tv24.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+    <link>rtmp://112.197.2.11/live</link>
+    <pageUrl><![CDATA[ http://tv24.vn/ ]]></pageUrl>
+    <playpath>vtv2.stream</playpath>
+  </backup>
+	</stream>
+	<stream>
+	<title>VTV3</title>
+	<link>rtmp://66.160.142.197:1935/live/vtv31</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/VOV3/27]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://img.vctv.vn/Images/Uploaded/Share/2010/08/19/45bvtv3-copy.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtv:VTV3</epgid>
+	<backup>
+	  <swfUrl>http://tv24.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+    <link>rtmp://112.197.2.11/live</link>
+    <pageUrl><![CDATA[ http://tv24.vn/ ]]></pageUrl>
+    <playpath>vtv3.stream</playpath>
+  </backup>
+	</stream>
+	<stream>
+	<title>VTV4</title>
+	<link>rtmp://66.160.142.197:1935/live/vtv4</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://vtc.com.vn/#/VTV4/2]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://img.vctv.vn/Images/Uploaded/Share/2010/08/19/0f3vtv4-copy.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtv:VTV4</epgid>
+	<backup>
+	  <swfUrl>http://tv24.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+    <link>rtmp://112.197.2.11/live</link>
+    <pageUrl><![CDATA[ http://tv24.vn/ ]]></pageUrl>
+    <playpath>vtv4.stream</playpath>
+  </backup>
+	</stream>
+	<stream>
+	<title>VTV6</title>
+	<link>rtmp://112.197.2.11:1935/live/vtv6.stream</link>
+	<swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced>timeout=20</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/vi/f/ff/VTV6.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtv:VTV6</epgid>
+	</stream>
+	<stream>
+	<title>VTV9</title>
+	<link>rtmp://112.197.2.11:1935/live/vtv9.stream</link>
+	<swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced>timeout=20</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/vi/6/65/VTV9.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtv:VTV9</epgid>
+	</stream>
+	<stream>
+	<title>Hà Nội 1</title>
+	<link>rtmp://66.160.142.197:1935/live/hanoi11</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/hh/hanoi_tv1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>hanoitv:1</epgid>
+	<backup>
+	  <swfUrl>http://tv24.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+    <link>rtmp://112.197.2.11/live</link>
+    <pageUrl><![CDATA[ http://tv24.vn/ ]]></pageUrl>
+    <playpath>hn1.stream</playpath>
+  </backup>
+	</stream>
+	<stream>
+	<title>HTV7</title>
+	<link>rtmp://66.160.142.197:1935/live/htv7</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV7/24]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://iptv.xunghe.vn/images/tintuc/HTV7.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>htvvn:7</epgid>
+	<backup>
+	  <swfUrl>http://tv24.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+    <link>rtmp://112.197.2.11/live</link>
+    <pageUrl><![CDATA[ http://tv24.vn/ ]]></pageUrl>
+    <playpath>htv7.stream</playpath>
+  </backup>
+	</stream>
+	<stream>
+	<title>HTV9</title>
+	<link>rtmp://66.160.142.197:1935/live/htv91</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV9/4]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://iptv.xunghe.vn/images/tintuc/htv9.png</logourl>
+	<language>Vietnamese</language>
+	<epgid>htvvn:8</epgid>
+	<backup>
+	  <swfUrl>http://tv24.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+    <link>rtmp://112.197.2.11/live</link>
+    <pageUrl><![CDATA[ http://tv24.vn/ ]]></pageUrl>
+    <playpath>htv9.stream</playpath>
+  </backup>
+	</stream>
+	<stream>
+	<title>Tiền Giang</title>
+	<link>mms://118.69.201.97/rtv</link>
+	<logourl>http://www.tiengiangtv.org.vn/thtg/vn/skin/old/images/thtg.gif</logourl>
+	<language>Vietnamese</language>
+	<epgid>itvvn:94|nochk</epgid>
+	</stream>
+	<stream>
+	<title>VTC1</title>
+	<link>rtmp://66.160.142.197:1935/live/vtc11</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://vtc.com.vn/#/VTC1/10]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/vv/vtc_1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtc:10|nochk</epgid>
+	</stream>
+	<stream>
+	<title>VTC2</title>
+	<link>rtmp://66.160.142.197:1935/live/vtc21</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/VTC2/11]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtchd:VTC2|nochk</epgid>
+	</stream>
+	<stream>
+	<title>VTC10</title>
+	<link>rtmp://66.160.142.197:1935/live/vtc101</link>
+	<swfUrl>http://vtc.com.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/VTC10/22]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/vv/vtc_10.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtchd:VTC10|nochk</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 1 Ha`i</title>
+	<link>http://112.197.2.16:1935/live/SDsctv1.stream/playlist.m3u8</link>
+	<logourl>http://4.bp.blogspot.com/-_py2zcV1OUU/TexjT58wesI/AAAAAAAAAUA/jEdkMWakm5E/s1600/sctv1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:7</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 2 Am Nhac Quoc Te</title>
+  <link>http://112.197.2.16:1935/live/SDsctv2.stream/playlist.m3u8</link>
+	<logourl>http://3.bp.blogspot.com/-x7mfg7oUNIE/TexjUWF1GGI/AAAAAAAAAUE/WGmCcndbnbg/s1600/sctv2.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:2</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 3 SaoTV Thieu Nhi</title>
+	<link>http://112.197.2.16:1935/live/SDsctv3.stream/playlist.m3u8</link>
+	<logourl>http://4.bp.blogspot.com/-ubuLJTjPdlY/TexjUxczRSI/AAAAAAAAAUI/JvD9zp211n4/s1600/sctv3.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:10</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 4 Kenh Tong Hop</title>
+	<link>http://112.197.2.16:1935/live/SDsctv4.stream/playlist.m3u8</link>
+	<logourl>http://1.bp.blogspot.com/-aK9IKreVWFc/TexjVbp3NTI/AAAAAAAAAUM/4Lf_qmHQ_4o/s1600/sctv4.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:9|nochk</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 5 Shopping</title>
+	<link>http://112.197.2.16:1935/live/SDsctv5.stream/playlist.m3u8</link>
+	<logourl>http://1.bp.blogspot.com/-jyT7288ATfM/TexjV3TNLtI/AAAAAAAAAUQ/XVBwiO6wpNQ/s1600/sctv5.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:11|nochk</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 6 Kenh Song Nhac</title>
+	<link>http://112.197.2.16:1935/live/SDsctv6.stream/playlist.m3u8</link>
+	<logourl>http://3.bp.blogspot.com/-IIjtP_rnmP4/TexjWQh4PFI/AAAAAAAAAUU/VvILXiZLMrQ/s1600/sctv6.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:12|nochk</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 7 San Khau Van Nghe Tong Hop</title>
+	<link>http://112.197.2.16:1935/live/SDsctv7.stream/playlist.m3u8</link>
+	<logourl>http://1.bp.blogspot.com/-ocktnMqBnpI/TexjWzVfTpI/AAAAAAAAAUY/MnkKeg_THfg/s1600/sctv7.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:13</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 8 Thong Tin Kinh Te</title>
+	<link>http://112.197.2.16:1935/live/SDsctv8.stream/playlist.m3u8</link>
+	<logourl>http://4.bp.blogspot.com/-i4rrpQWLLJI/TexjXBBCI3I/AAAAAAAAAUc/aduIg-HPIVA/s1600/sctv8.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:14|nochk</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 9 Kenh Phim Chau A</title>
+	<link>http://112.197.2.16:1935/live/SDsctv9.stream/playlist.m3u8</link>
+	<logourl>http://3.bp.blogspot.com/-iqv41PQaYTw/TexjX8c3V7I/AAAAAAAAAUg/mD7H3h4J5eg/s1600/sctv9.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:8</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 10 Shopping Network</title>
+	<link>http://112.197.2.16:1935/live/SDsctv10.stream/playlist.m3u8</link>
+	<logourl>http://www.dailytv.net/uploads/thumbs/04a8c6b5e-1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:15|nochk</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 11 Hat Tren Truyen Hinh</title>
+	<link>http://112.197.2.16:1935/live/SDsctv1.stream/playlist.m3u8</link>
+	<logourl>http://luaviet.co/content/uploads/2011/10/Logo-SCTV11.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:16</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 12 Dulich Kham Pha</title>
+	<link>http://112.197.2.16:1935/live/SDsctv12.stream/playlist.m3u8</link>
+	<logourl>http://www.daily-tv.com/uploads/thumbs/a2ff607d6-1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:17</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 13 PhuNu &amp; GiaDinh</title>
+	<link>http://112.197.2.16:1935/live/SDsctv13.stream/playlist.m3u8</link>
+	<logourl>http://www.myitv.net/uploads/thumbs/025b6efeb-1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:18</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 14 Kenh Phim Tieng Viet</title>
+	<link>http://112.197.2.16:1935/live/SDsctv14.stream/playlist.m3u8</link>
+	<logourl>http://image2.vctv.vn/Images/Uploaded/Share/2011/11/09/SCTV14.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:19</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 15 Kenh The Thao</title>
+	<link>http://112.197.2.16:1935/live/SDsctv15.stream/playlist.m3u8</link>
+	<logourl>http://liveradio.super-resources.com/wp-content/uploads/2011/12/sctv15.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:20</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 16 Kenh Phim Truyen Nuoc Ngoai Dac Sac</title>
+	<link>http://112.197.2.16:1935/live/SDsctv16.stream/playlist.m3u8</link>
+	<logourl>http://www.dailytv.net/uploads/thumbs/592050dda-1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:21</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 17 Kenh Phim Truyen Chon Loc</title>
+	<link>http://112.197.2.16:1935/live/SDsctv17.stream/playlist.m3u8</link>
+	<logourl>http://www.dailytv.net/uploads/thumbs/238545668-1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:4</epgid>
+	</stream>
+	<stream>
+	<title>SCTV 18 KENH THE THAO HD</title>
+	<link>http://112.197.2.16:1935/live/SDsctv18.stream/playlist.m3u8</link>
+	<logourl>http://www.dailytv.net/uploads/thumbs/d93043d8b-1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:22|nochk</epgid>
+	</stream>
+	<stream>
+	<title>VNews</title>
+	<link>rtmp://live.vnanet.vn:1935/Live/DRC</link>
+	<swfUrl>http://vnews.vnanet.vn/RtmpPlayer/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://vnews.vnanet.vn/]]></pageUrl>
+	<advanced>live=true timeout=40</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/vi/6/68/Logo_TTXVN.jpg</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>ANTV An Ninh TV</title>
+	<link>rtmp://112.197.2.11:1935/live/antv.stream</link>
+	<swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced>timeout=60</advanced>
+	<logourl></logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:44|nochk</epgid>
+	</stream>
+	<stream>
+	<title>iTV Music</title>
+	<link>rtmp://210.245.82.6/live/itvw_hh</link>
+	<playpath>itvw_hh</playpath>
+	<swfUrl>http://player.longtailvideo.com/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.tivi24h.com/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv1.jpg</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>Bình Thuận</title>
+	<link>rtmp://112.197.2.11:1935/live/bthtv.stream</link>
+	<swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced>timeout=60</advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/bb/binh_thuan_tv.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>bttvvn:bttvvn</epgid>
+	</stream>
+	<stream>
+	<title>Đồng Nai 1</title>
+	<link>rtmp://112.197.2.11:1935/live/dn1.stream</link>
+	<swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced>timeout=60</advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv1.jpg</logourl>
+	<language>Vietnamese</language>
+	<!--<epgid>dongnai:1</epgid>-->
+	<epgid>itvvn:41</epgid>
+	</stream>
+	<stream>
+	<title>Đồng Nai 2</title>
+	<link>rtmp://123.30.107.3:1935/live/dn2/</link>
+	<playpath>livestream</playpath>
+	<swfUrl>"http://vietpho.com/includes/js/vietpho.swf"</swfUrl>
+	<pageUrl><![CDATA["http://vietpho.com/online-channels.php"]]></pageUrl>
+	<advanced>swfVfy=true live=true</advanced>
+	<advanced></advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv2.jpg</logourl>
+	<language>Vietnamese</language>
+	<!--<epgid>dongnai:2|nochk</epgid>-->
+	<epgid>itvvn:42|nochk</epgid>
+	</stream>
+	<stream>
+	<title>LA34 Long An</title>
+	<link>rtmp://112.197.2.11:1935/live/la34.stream</link>
+	<swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced>timeout=60</advanced>
+	<logourl></logourl>
+	<language>Vietnamese</language>
+	<epgid>tv24vn:41|nochk</epgid>
+	</stream>
+	<stream>
+	<title>Vĩnh Long 1</title>
+	<link>rtmp://112.197.2.11:1935/live/thvl1.stream</link>
+	<swfUrl>http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.vtc.com.vn/#/HTV/5]]></pageUrl>
+	<advanced>timeout=60</advanced>
+	<logourl>http://1.bp.blogspot.com/-jQfscYBRj9I/TlS3aBmGVpI/AAAAAAAAACM/-WnnYY0jW6A/s1600/logo+thvl1.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>itvvn:38</epgid>
+	</stream>
+	<stream>
+	<title>Vĩnh Long 2</title>
+	<link>rtmp://123.30.108.77/live/THVL2/THVL2</link>
+	<swfUrl>http://tv.xunghe.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://tv.xunghe.vn/?tab]]></pageUrl>
+	<advanced>timeout=30</advanced>
+	<logourl>http://2.bp.blogspot.com/-2uUMb_17tBQ/TyI4doajB6I/AAAAAAAAAZ8/HpQeBZatirA/s320/thvl2.jpg</logourl>
+	<language>Vietnamese</language>
+	<epgid>itvvn:86</epgid>
+	</stream>
+	<stream>
+	<title>TRT 1 Thua Thien Hue</title>
+	<link>rtmp://118.69.176.149/live/trt</link>
+	<swfUrl>http://tv.xunghe.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://tv.xunghe.vn/?tab]]></pageUrl>
+	<advanced>timeout=30</advanced>
+	<logourl>http://tv.xunghe.vn/images/logo/hue.gif</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>VP Vinh Phuc</title>
+	<link>rtmp://210.245.87.165/live/thvp</link>
+	<swfUrl>http://tv.xunghe.vn/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://tv.xunghe.vn/?tab]]></pageUrl>
+	<advanced>timeout=30</advanced>
+	<logourl>http://tv.xunghe.vn/images/logo/vinhphuc.gif</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>VOVTV</title>
+	<link>rtmp://123.30.50.46:8080/live/vovvideo</link>
+	<swfUrl>http://tnvn.gov.vn/Images/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.tivi24h.com/2011/04/xem-tivi-kenh-vov-tv-vov-online-xem-vov.html]]></pageUrl>
+	<advanced>timeout=30</advanced>
+	<logourl>http://1.bp.blogspot.com/-H8zUX9-T5r0/TbkqIm4ozVI/AAAAAAAAATA/W5l5U8ooIII/s1600/vovtv.gif</logourl>
+	<language>Vietnamese</language>
+	<epgid>itvvn:88|nochk</epgid>
+	</stream>
+
+	<stream>
+	<title>VAN TV</title>
+	<link>rtmp://flash54.ustream.tv:1935/ustreamVideo/3097098/streams/live_1</link>
+	<swfUrl>http://static-cdn1.ustream.tv/swf/live/viewer.rsl:136.swf</swfUrl>
+	<pageUrl><![CDATA[http://www.freesaigontv.com/van-tv-us/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.552vantv.com/Van_TV_Logo__1.png</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>VietFace</title>
+	<link>rtmp://74.63.219.99:1935/vftv/myStream.sdp</link>
+	<playpath>myStream.sdp</playpath>
+	<swfUrl>http://vietfacetv.com/VFTV/vftv.swf</swfUrl>
+	<pageUrl><![CDATA[http://vietfacetv.com/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/vv/viet_face_tv.jpg</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>SaigonTV</title>
+	<link>rtmp://74.63.219.99:1935/sgtv/myStream.sdp</link>
+	<playpath>myStream.sdp</playpath>
+	<swfUrl>http://saigontv.us/includes/flash/saigontivi.swf</swfUrl>
+	<pageUrl><![CDATA[http://saigontv.us/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.vietfilmfest.com/2011/images/saigon-tv-logo.jpg</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>LittleSaigonTV</title>
+	<link>rtmp://74.63.219.99:1935/lstv/myStream.sdp</link>
+	<playpath>myStream.sdp</playpath>
+	<swfUrl>http://littlesaigontv.net/lstv_includes/flash/littlesaigontv.swf</swfUrl>
+	<pageUrl><![CDATA[http://littlesaigontv.net/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://www.futureace.org/LittleSaigonTV.jpg</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>GlobalTV</title>
+	<link>rtmp://74.63.219.99:1935/gbtv/myStream.sdp</link>
+	<playpath>myStream.sdp</playpath>
+	<swfUrl>http://vietpho.com/globaltivi/globaltivi.swf</swfUrl>
+	<pageUrl><![CDATA[http://globaltivi.com/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://globaltivi.com/assets/theme/default/css/img/logo_small.png</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>VTV Danang</title>
+	<link>rtmp://222.255.167.149/live/livestream</link>
+	<swfUrl>http://megafullvn.com/playerhd/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://megafullvn.com/tivi/kenh/vtvdanang.php]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://1.bp.blogspot.com/-FGtNN96Jgfc/TfzQX4u7kxI/AAAAAAAAAVw/gfI8DEZC52g/s1600/vtvdanang.jpg</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>VTVCầnThơ 1</title>
+	<link>rtmp://113.161.204.167/live/livestream</link>
+	<swfUrl>http://megafullvn.com/playerhd/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://megafullvn.com/tivi/kenh/vtvcantho1.php]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://2.bp.blogspot.com/-AxH5oUnFf2o/TkFsL-aRdUI/AAAAAAAAAZA/44M1sCrmWN0/s1600/vtvcantho1.gif</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtvcantho:VTVCầnThơ 1</epgid>
+	</stream>
+	<stream>
+	<title>VTVCầnThơ 2</title>
+	<link>rtmp://113.161.204.168/live/livestream</link>
+	<swfUrl>http://megafullvn.com/playerhd/player.swf</swfUrl>
+	<pageUrl><![CDATA[http://megafullvn.com/tivi/kenh/vtvcantho2.php]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://4.bp.blogspot.com/-wyqLDsNMiik/TkFsMo2QVhI/AAAAAAAAAZE/_wqzrao583Q/s1600/vtvcantho2.gif</logourl>
+	<language>Vietnamese</language>
+	<epgid>vtvcantho:VTVCầnThơ 2</epgid>
+	</stream>
+	<stream>
+	<title>Yeah1 HD</title>
+	<link>rtmp://221.133.7.133:1935/yeah1live/mp4:yeah1live.480p</link>
+	<swfUrl>http://yeah1.com/smartplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://yeah1.com/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://yeah1.com/images/logo.png</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>Yeah1 Family BTV4 </title>
+	<link>rtmp://221.133.7.133:1935/yeah1live/mp4:yeah1family.480p</link>
+	<swfUrl>http://yeah1.com/smartplayer.swf</swfUrl>
+	<pageUrl><![CDATA[http://yeah1.com/]]></pageUrl>
+	<advanced></advanced>
+	<logourl>http://yeah1.com/images/logo.png</logourl>
+	<language>Vietnamese</language>
+	</stream>
+	<stream>
+	<title>BTV BINHTHUAN BACKUP</title>
+	<link>mms://123.30.108.114/BTVTruyenhinh</link>
+	<logourl>http://www.lyngsat-logo.com/logo/tv/bb/binh_thuan_tv.jpg</logourl>
+	<language>Vietnamese</language>
+	</stream>
+</streams>

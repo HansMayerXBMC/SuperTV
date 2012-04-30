@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+<stream>
+<title>m1</title>
+<info resolution="320x240" bitrate="500kbps"/>
+<link>http://streamer2.carnation.hu/mtvonlinem1</link>
+<advanced>live=1</advanced>
+<language>Hungarian</language>
+<epgid>porthu:1</epgid>
+<logourl>http://www.lyngsat-logo.com/hires/mm/magyar_tv1.png</logourl>
+</stream>
+<stream>
+<title>m2</title>
+<info resolution="320x240" bitrate="500kbps"/>
+<link>http://streamer2.carnation.hu/mtvonlinem2</link>
+<advanced>live=1</advanced>
+<language>Hungarian</language>
+<epgid>porthu:2</epgid>
+<logourl>http://www.lyngsat-logo.com/hires/mm/magyar_tv2.png</logourl>
+</stream>
+<stream>
+<title>Duna TV</title>
+<info resolution="384x288" bitrate="260kbps"/>
+<link>mms://80.249.172.27/dunatv</link>
+<language>Hungarian</language>
+<epgid>porthu:6</epgid>
+<logourl>http://www.dunatv.hu/sites/dunatv/images/new/logo.png</logourl>
+</stream>
+<stream>
+<title>Duna World</title>
+<info resolution="384x288" bitrate="260kbps"/>
+<link>mms://80.249.172.27/autonomia</link>
+<language>Hungarian</language>
+<epgid>porthu:103</epgid>
+<logourl>http://www.dunaworld.hu/images/duna_world_logo.png</logourl>
+</stream>
+<stream>
+<title>TV2</title>
+<info resolution="640x480" bitrate="0kbps"/>
+<link>mms://livestream1.tv2.hu:80/live</link>
+<language>Hungarian</language>
+<epgid>porthu:3</epgid>
+<logourl>http://www.lyngsat-logo.com/hires/tt/tv2_hu.png</logourl>
+</stream>
+<stream>
+<title>HírTV</title>
+<info resolution="640x480" bitrate="1000kbps"/>
+<link>http://stream.mno.hu/delayed.mpg</link>
+<advanced>live=1</advanced>
+<language>Hungarian</language>
+<epgid>porthu:10</epgid>
+<logourl>http://www.lyngsat-logo.com/hires/hh/hir_tv.png</logourl>
+</stream>
+<stream>
+<title>ATV</title>
+<info resolution="512x288" bitrate="500kbps"/>
+<link>rtmp://flash0.atv.hu/live/atvlive</link>
+<swfUrl>http://static.atv.hu/flashes/ATV_LiveVideoplayer_v2.swf</swfUrl>
+<pageUrl>http://atv.hu/online</pageUrl>
+<language>Hungarian</language>
+<epgid>porthu:15</epgid>
+<logourl>http://static.atv.hu/images/bg.logo-atv2.png</logourl>
+</stream>
+<stream>
+<title>Fix.TV</title>
+<info resolution="720x404" bitrate="900kbps"/>
+<link>mms://www.fixtv.hu:12000</link>
+<epgid>porthu:96</epgid>
+<logourl>http://www.lyngsat-logo.com/logo/tv/ff/fix_tv_tr.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>1 Music Channel</title>
+<info resolution="768x576" bitrate="1000kbps"/>
+<link>rtmp://92.249.129.131:1935/live/_definst_/music2</link>
+<pageUrl>http://1music.hu/</pageUrl>
+<advanced>token=mafUp8VaxEcRegEn</advanced>
+<language>Hungarian</language>
+<epgid>porthu:235</epgid>
+<logourl>http://www.lyngsat-logo.com/hires/num/1music_channel_hu.png</logourl>
+</stream>
+<stream>
+<title>Budapest TV</title>
+<info resolution="640x480" bitrate="440kbps"/>
+<link>mms://stream02.gtk.hu/bptv</link>
+<language>Hungarian</language>
+<epgid>porthu:13</epgid>
+<logourl>http://www.lyngsat-logo.com/hires/bb/budapest_europa_televizio.png</logourl>
+</stream>
+<stream>
+<title>Debrecen TV</title>
+<info resolution="440x330" bitrate="700kbps"/>
+<link>rtmp://91.82.85.71:1935/live/_definst_/DTV</link>
+<language>Hungarian</language>
+<epgid>porthu:191</epgid>
+<logourl>http://www.debrecenpiac.hu/_articles/tvlogo.jpg</logourl>
+</stream>
+<stream>
+<title>Debrecen - Alföld TV</title>
+<info resolution="768x576" bitrate="1000kbps"/>
+<link>rtmp://217.113.62.243/live/live</link>
+<language>Hungarian</language>
+<epgid>porthu:205</epgid>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Alfold-TV.jpg</logourl>
+</stream>
+<stream>
+<title>Gotthárd TV</title>
+<info resolution="320x240" bitrate="300kbps"/>
+<link>http://www.gotthardtv.hu:8000/;stream.nsv</link>
+<advanced>live=1</advanced>
+<epgid>porthu:188</epgid>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Gotthard-TV.gif</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Győr - Oxigén TV</title>
+<info resolution="352x288" bitrate="341kbps"/>
+<link>mms://stream02.gtk.hu/o2tv</link>
+<epgid>porthu:219</epgid>
+<logourl>http://www.lyngsat-logo.com/logo/tv/oo/o2_tv_hu.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Győr - Revita TV</title>
+<info resolution="352x288" bitrate="512kbps"/>
+<link>mms://stream01.gtk.hu/revita_tv</link>
+<epgid>porthu:192</epgid>
+<logourl>http://www.lyngsat-logo.com/logo/tv/rr/revita_tv.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Marosvásárhely - Erdély TV</title>
+<info resolution="320x240" bitrate="200kbps"/>
+<link>rtmp://flash69.ustream.tv:1935/ustreamVideo/6495387/streams/live_1</link>
+<swfUrl>http://static-cdn1.ustream.tv/swf/live/viewer.rsl:159.swf</swfUrl>
+<pageUrl>http://erdely.tv/elo-adas</pageUrl>
+<epgid>porthu:222</epgid>
+<logourl>http://erdely.ma/ujkepek/2010/12/nagy/1575885.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Miskolci TV</title>
+<info resolution="320x240" bitrate="200kbps"/>
+<link>rtmp://85.119.8.141:8080/live/live</link>
+<language>Hungarian</language>
+<epgid>porthu:189</epgid>
+<logourl>http://www.lyngsat-logo.com/logo/tv/mm/miskolc_tv.jpg</logourl>
+</stream>
+<stream>
+<title>Nyíregyháza - Kölcsey TV</title>
+<info resolution="352x288" bitrate="500kbps"/>
+<link>http://live.kolcseytv.hu:8000/;stream.nsv</link>
+<language>Hungarian</language>
+<epgid>porthu:198</epgid>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Kolcsey-TV.jpg</logourl>
+</stream>
+<stream>
+<title>Nyíregyházi TV</title>
+<info resolution="320x240" bitrate="315kbps"/>
+<link>mms://stream.giganet.hu/nytvonline</link>
+<language>Hungarian</language>
+<epgid>porthu:210</epgid>
+<logourl>http://zene.hu/image/db_mazeszak/.640x640/16560.jpg</logourl>
+</stream>
+<stream>
+<title>Pécs TV</title>
+<info resolution="384x288" bitrate="400kbps"/>
+<link>http://www.pecstv.hu:8000/;stream.nsv</link>
+<epgid>porthu:193</epgid>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Pecs-TV.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Szeged Városi TV</title>
+<info resolution="352x288" bitrate="900kbps"/>
+<link>rtmp://193.142.209.45/live/vtvszeged</link>
+<language>Hungarian</language>
+<epgid>porthu:190</epgid>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Varosi-TV-Szeged.jpg</logourl>
+</stream>
+<stream>
+<title>Full Arts Media</title>
+<info resolution="400x300" bitrate="450kbps"/>
+<link>rtmp://wowza.tststudio.com/live/stream03</link>
+<logourl>http://www.centermedia.hu/pic/fullarts.JPG</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>H!T Music Channel</title>
+<info resolution="768x576" bitrate="1000kbps"/>
+<link>rtmp://92.249.129.130:1935/live/_definst_/music1</link>
+<pageUrl>http://myhit.tv/</pageUrl>
+<advanced>token=mafUp8VaxEcRegEn</advanced>
+<language>Hungarian</language>
+<logourl>http://www.lyngsat-logo.com/hires/hh/hit_music_channel.png</logourl>
+</stream>
+<stream>
+<title>Rock TV</title>
+<info resolution="720x406" bitrate="850kbps"/>
+<link>rtmp://91.82.85.71:1935/live/_definst_/rocktv</link>
+<language>Hungarian</language>
+<logourl>http://www.lyngsat-logo.com/hires/rr/rock_tv_hu.png</logourl>
+</stream>
+<stream>
+<title>bestofmusic</title>
+<info resolution="720x406" bitrate="850kbps"/>
+<link>rtmp://91.82.85.71:1935/live/_definst_/bestof</link>
+<language>Hungarian</language>
+<logourl>http://www.lyngsat-logo.com/hires/bb/best_of_music.png</logourl>
+</stream>
+<stream>
+<title>musicplus</title>
+<info resolution="720x406" bitrate="850kbps"/>
+<link>rtmp://91.82.85.71:1935/live/_definst_/musicplus</link>
+<language>Hungarian</language>
+<logourl>http://www.lyngsat-logo.com/hires/mm/music_plus_hu.png</logourl>
+</stream>
+<stream>
+<title>Dance TV</title>
+<info resolution="720x420" bitrate="1250kbps"/>
+<link>mms://dancetv.dyndns.org/dancetv</link>
+<language>Hungarian</language>
+<logourl>http://www.tv-box.ro/wp-content/uploads/dancetv.png</logourl>
+</stream>
+<stream>
+<title>Bajai TV</title>
+<info resolution="320x240" bitrate="500kbps"/>
+<link>rtmp://85.67.200.10/live/teszt/baja</link>
+<logourl>http://www.futeam.hu/bajaitv.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Balatonboglár - Supra TV</title>
+<info resolution="352x288" bitrate="0kbps"/>
+<link>mms://stream01.gtk.hu/Supra_boglar_tv</link>
+<logourl>http://boglar-tv.hu/images/stories/kep5.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Budapest, Belváros-Lipótváros - City Tv</title>
+<info resolution="368x294" bitrate="650kbps"/>
+<link>mms://217.27.219.157:1234</link>
+<language>Hungarian</language>
+<logourl>http://tudositok.hu/obpics/ODk=</logourl>
+</stream>
+<stream>
+<title>Budapest, Terézváros - Hatos Csatorna</title>
+<info resolution="768x576" bitrate="1000kbps"/>
+<link>mms://78.131.55.125:8090</link>
+<language>Hungarian</language>
+<logourl>http://www.astellasazorvosokert.hu/img/sponsor/HatosCsatorna.png</logourl>
+</stream>
+<stream>
+<title>Budapest - Zugló TV</title>
+<info resolution="388x288" bitrate="241kbps"/>
+<link>mms://stream01.gtk.hu/zuglotv_live</link>
+<logourl>http://a6.sphotos.ak.fbcdn.net/hphotos-ak-snc7/385408_186506788109085_186504888109275_379026_703342849_n.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Dunakeszi - Telekeszi TV</title>
+<info resolution="352x288" bitrate="384kbps"/>
+<link>mms://stream01.gtk.hu/dunakeszi_tv</link>
+<logourl>http://www.camiondriver.hu/assets/images/tvlogo/telekeszi.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Dunaújvárosi TV</title>
+<info resolution="720x576" bitrate="484kbps"/>
+<link>mms://stream02.gtk.hu/ds_tv</link>
+<logourl>http://dlsz.hu/sites/default/files/pictures/logo/logo-dunaujvarosi-televizio-dstv-120x120.png</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Érd TV</title>
+<info resolution="352x288" bitrate="500kbps"/>
+<link>rtmp://79.120.218.185/live/livestream</link>
+<logourl>http://www.etvkezilabda.hu/download/logo_2.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Fehérvár TV</title>
+<info resolution="352x288" bitrate="288kbps"/>
+<link>mms://stream01.gtk.hu/fehervar_tv</link>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Fehervar-TV.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Gyöngyösi Városi TV</title>
+<info resolution="640x480" bitrate="464kbps"/>
+<link>mms://stream02.gtk.hu/gytv</link>
+<language>Hungarian</language>
+<logourl>http://www.lyngsat-logo.com/hires/gg/gyongyos_varosi_tv.png</logourl>
+</stream>
+<stream>
+<title>Kapos TV</title>
+<info resolution="320x240" bitrate="400kbps"/>
+<link>http://195.56.77.207:8004/;stream.nsv</link>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Kapos-TV.png</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Kecskeméti TV</title>
+<info resolution="640x480" bitrate="900kbps"/>
+<link>rtmp://193.142.209.45/live/ktv</link>
+<epgid>porthu:196</epgid>
+<logourl>http://nrw.kecskemetitv.hu/images/ktv_logo.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Komáromi TV</title>
+<info resolution="352x288" bitrate="341kbps"/>
+<link>mms://stream02.gtk.hu/komaromtv</link>
+<logourl>http://www.komaromtv.hu/templates/default/images/footerLogo.png</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Makó Városi TV</title>
+<info resolution="768x420" bitrate="0kbps"/>
+<link>mms://62.77.210.177</link>
+<logourl>http://ing-sat.what.hu/images/hun-city/152-Mako-TV.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Szabadka - Pannon RTV</title>
+<info resolution="576x432" bitrate="0kbps"/>
+<link><![CDATA[http://188.64.106.19:8080/stream/?channel=pannonrtv&stream=1mb&sp=freetv]]></link>
+<advanced>live=1</advanced>
+<language>Hungarian</language>
+<logourl>http://www.pannonrtv.com/RTV/e107_themes/xxxxxx/images/logo.png</logourl>
+</stream>
+<stream>
+<title>Százhalombatta - Halom TV</title>
+<info resolution="320x240" bitrate="300kbps"/>
+<link>rtmp://stream.battanet.hu/halom/tv</link>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Halom-TV.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Szentes - Civil TV</title>
+<info resolution="768x420" bitrate="0kbps"/>
+<link>mms://85.90.176.28:8123</link>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Civil-TV.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Melitta TV</title>
+<info resolution="384x288" bitrate="400kbps"/>
+<link>mms://stream01.gtk.hu/gil</link>
+<logourl>none</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Putnok Városi TV</title>
+<info resolution="640x480" bitrate="481kbps"/>
+<link>mms://stream02.gtk.hu/pvtv</link>
+<logourl>http://www.lyngsat-logo.com/logo/tv/pp/putnok_tv.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Sió TV</title>
+<info resolution="352x288" bitrate="384kbps"/>
+<link>mms://stream02.gtk.hu/sio_tv</link>
+<logourl>http://rtx.hu/components/com_garyscookbook/img_thumbnails/tn_siotv.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+<stream>
+<title>Tiszaújváros - Tisza TV</title>
+<info resolution="720x576" bitrate="800kbps"/>
+<link>http://www.tiszatv.hu:443/tiszatv.f4v</link>
+<advanced>live=1</advanced>
+<logourl>http://www.tv14.net/wp-content/uploads/2010/10/Tisza-TV.jpg</logourl>
+<language>Hungarian</language>
+</stream>
+</streams>

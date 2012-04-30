@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+	<stream>
+	<title>La 1</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.rtve.es/swf/4.0.37/RTVEPlayerVideo.swf</swfUrl>
+	<link>rtmp://cp68975.live.edgefcs.net:1935/live</link>
+	<pageUrl><![CDATA[http://www.rtve.es/noticias/directo-la-1]]></pageUrl>
+	<playpath>LA1_AKA_WEB_NOG@58877</playpath>
+	<language>Spanish</language>
+	<advanced>swfVfy=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1000px-Logo_TVE-1.svg.png</logourl>
+	<epgid>elmundo:3</epgid>
+	</stream>
+	<stream>
+	<title>Antena 3</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/stream_cell_4x3_150k.m3u8 </link>
+	<language>Spanish</language>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/d/de/Antena_3_2011.jpg</logourl>
+	<epgid>elmundo:2</epgid>
+	</stream>
+	<stream>
+	<title>Cuatro</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://static1.tele-cinco.net/comun/swf/playerCuatro.swf</swfUrl>
+	<link>rtmp://telecincolivefs.fplive.net/telecincolive-live</link>
+	<pageUrl><![CDATA[http://www.cuatro.com/en-directo/]]></pageUrl>
+	<playpath>cuatro</playpath>
+	<language>Spanish</language>
+	<advanced>live=1 app=telecincolive-live swfVfy=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1000px-Logotipo_de_Cuatro.svg.png</logourl>
+	<epgid>elmundo:496</epgid>
+	</stream>
+  <stream>
+	<title>Telecinco</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://static1.tele-cinco.net/comun/swf/playerCuatro.swf</swfUrl>
+	<link>rtmp://telecincolivefs.fplive.net/telecincolive-live</link>
+	<pageUrl><![CDATA[http://www.telecinco.es/endirecto/]]></pageUrl>
+	<playpath>telecinco</playpath>
+	<language>Spanish</language>
+	<advanced>live=1 app=telecincolive-live swfVfy=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/7/75/Telecinco_2012.png</logourl>
+	<epgid>elmundo:1</epgid>
+	</stream>
+	<stream>
+	<title>Canal 24 horas</title>
+	<swfUrl>http://www.rtve.es/swf/4.1.0/RTVEPlayerVideo.swf</swfUrl>
+	<link>rtmp://rtve.fc.llnwd.net:1935/rtve</link>
+	<pageUrl><![CDATA[http://www.rtve.es/noticias/directo/canal-24h]]></pageUrl>
+	<playpath>24H_LLT_WEB_NOG</playpath>
+	<language>Spanish</language>
+	<advanced></advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1000px-Logo_TVE-24h.svg.png</logourl>
+	<epgid>elmundo:8</epgid>
+	</stream>
+	<stream>
+	<title>Teledeporte</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.rtve.es/swf/4.0.37/RTVEPlayerVideo.swf</swfUrl>
+	<link>rtmp://cp48772.live.edgefcs.net:1935/live</link>
+	<pageUrl><![CDATA[http://www.rtve.es/deportes/directo/teledeporte/]]></pageUrl>
+	<playpath>TDP_AKA_WEB_GEO@58884</playpath>
+	<language>Spanish</language>
+	<advanced>swfVfy=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png</logourl>
+	<epgid>elmundo:9</epgid>
+	</stream>
+	<stream>
+  <title>Canal+ 1</title>
+  <swfUrl>http://maxtvstream.com/swfs/StrobeMediaPlayback.swf</swfUrl>
+  <link>rtmp://ks211693.kimsufi.com:1935/15</link>
+  <pageUrl><![CDATA[http://maxtvstream.com/embed/segurity_t.php]]></pageUrl>
+  <playpath>093f65e080a295f8076b1c5722a46aa2</playpath>
+  <language>Spanish</language>
+  <advanced>swfVfy=1</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1000px-Canal%2B.svg.png</logourl>
+  </stream>
+  <!--<stream>
+  <title>Canal+ 2</title>
+  <swfUrl>http://player.zcast.us/player.swf</swfUrl>
+  <link>rtmp://z4.zcast.us:1935/liveedge</link>
+  <pageUrl><![CDATA[pageUrl?http://zcast.us/gen.php]]></pageUrl>
+  <playpath>tetesfdds-38849</playpath>
+  <language>Spanish</language>
+  <advanced>swfVfy=1 tcUrl=rtmp://z4.zcast.us:1935/liveedge</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1000px-Canal%2B.svg.png</logourl>
+  </stream>-->
+  <stream>
+  <title>Canal+ Acción</title>
+  <swfUrl>http://maxtvstream.com/swfs/StrobeMediaPlayback.swf</swfUrl>
+  <link>rtmp://188.165.222.147:1935/15</link>
+  <pageUrl><![CDATA[http://maxtvstream.com/embed/segurity_t.php]]></pageUrl>
+  <playpath>34173cb38f07f89ddbebc2ac9128303f</playpath>
+  <language>Spanish</language>
+  <advanced>swfVfy=1</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Canal%2B_Acción_2008.svg/1000px-Canal%2B_Acción_2008.svg.png</logourl>
+  </stream>
+  <!--<stream>
+  <title>Canal+ Toros</title>
+  <swfUrl>http://24cast.info/player/player.swf</swfUrl>
+  <link>rtmp://cdn.24cast.eu:1935/live?u=teledeporteonlinetoros</link>
+  <pageUrl><![CDATA[http://24cast.eu/embed.php]]></pageUrl>
+  <playpath>teledeporteonlinetoros</playpath>
+  <language>Spanish</language>
+  <advanced>swfVfy=1</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/fr/f/fd/Canal%2B_Torros.png</logourl>
+  </stream>-->
+	<stream>
+  <title>FOX</title>
+  <swfUrl>http://maxtvstream.com/swfs/StrobeMediaPlayback.swf</swfUrl>
+  <link>rtmp://188.165.213.45:1935/15</link>
+  <pageUrl><![CDATA[http://maxtvstream.com/embed/segurity_t.php]]></pageUrl>
+  <playpath>aab3238922bcc25a6f606eb525ffdc56</playpath>
+  <language>Spanish</language>
+  <advanced>swfVfy=1 tcUrl=rtmp://188.165.213.45:1935/15</advanced>
+  <epgid>elmundo:202</epgid>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1000px-FOX_wordmark-orange.svg.png</logourl>
+  </stream>
+  <!--<stream>
+	<title>SyFy</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://streami.tv/files/fp/flowplayer.rtmp-3.2.3.swf</swfUrl>
+	<link>rtmp://95.211.168.21:1936/streami</link>
+	<pageUrl><![CDATA[http://streami.tv/embed/e2.php]]></pageUrl>
+	<playpath>streamtv-jkmg</playpath>
+	<language>Spanish</language>
+	<advanced>swfVfy=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png</logourl>
+	<epgid>elmundo:520</epgid>
+	</stream>-->
+  <stream>
+  <title>GolTV</title>
+  <swfUrl>http://maxtvstream.com/swfs/StrobeMediaPlayback.swf</swfUrl>
+  <link>rtmp://188.165.213.45:1935/15</link>
+  <pageUrl><![CDATA[http://maxtvstream.com/embed/segurity_t.php]]></pageUrl>
+  <playpath>4e732ced3463d06de0ca9a15b6153677</playpath>
+  <language>Spanish</language>
+  <advanced>swfVfy=1 tcUrl=rtmp://188.165.213.45:1935/15</advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png</logourl>
+  <epgid>elmundo:620</epgid>
+  </stream>
+  <stream>
+  <title>Sevilla FC TV</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://desk.camtenna.com/sevillafc/assets/swf/flowplayer.unlimited-3.2.4.swf</swfUrl>
+  <link>rtmp://fl0.c80137.cdn.qbrick.com/80137</link>
+  <pageUrl><![CDATA[http://www.sevillafc.es/nuevaweb/medios/tvdirecto]]></pageUrl>
+  <playpath>Sevilla</playpath>
+  <language>Spanish</language>
+  <advanced>-a 80137</advanced>
+  <logourl>http://www.sevillafc.es/archivos/mosca_tv_copia_1.jpg</logourl>
+  </stream>
+  <stream>
+  <title>Aragón Televisión</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.aragontelevision.es/externos/player_aragontv/plugins/LimelightStreamingPlugin.swf</swfUrl>
+  <link>rtmp://aragontv.fc.llnwd.net:443/aragontv</link>
+  <pageUrl><![CDATA[http://www.aragontelevision.es]]></pageUrl>
+  <playpath>stream_normal_abt</playpath>
+  <language>Spanish</language>
+  <advanced></advanced>
+  <epgid>elmundo:522</epgid>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/5/5e/Aragón_Televisión.png</logourl>
+  </stream>
+  <stream>
+  <title>Canal Vasco</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://jonas.do.am/player.swf</swfUrl>
+  <link>rtmp://cp70268.live.edgefcs.net/live/</link>
+  <pageUrl><![CDATA[http://jonas.do.am/]]></pageUrl>
+  <playpath>eitb-CanalVasco@5519</playpath>
+  <language>Spanish</language>
+  <advanced></advanced>
+  <logourl>http://images1.wikia.nocookie.net/__cb20110830190554/logopedia/images/archive/c/ca/20110830192256!Canal_Vasco_logo_2009.png</logourl>
+  </stream>
+	<stream>
+	<title>3/24</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://jonas.do.am/player.swf</swfUrl>
+	<link>rtmp://324.directe-f4v.emissio.tvcatalunya.cat/live/</link>
+	<pageUrl><![CDATA[http://jonas.do.am/]]></pageUrl>
+	<playpath>324_FLV@13068</playpath>
+	<language>Spanish</language>
+	<advanced></advanced>
+	</stream>
+	<stream>
+	<title>TeleMadrid Sat</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://jonas.do.am/player.swf</swfUrl>
+	<link>rtmp://cp118141.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://jonas.do.am]]></pageUrl>
+	<playpath>TSAlaotra@47718</playpath>
+	<language>Spanish</language>
+	<advanced>live=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/d/de/Antena_3_2011.jpg</logourl>
+	</stream>
+	<stream>
+	<title>TV3</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://jonas.do.am/player.swf</swfUrl>
+	<link>rtmp://tv3.directe-f4v.emissio.tvcatalunya.cat/live/</link>
+	<pageUrl><![CDATA[http://jonas.do.am/]]></pageUrl>
+	<playpath>TV3_FLV@12888</playpath>
+	<language>Spanish</language>
+	<advanced></advanced>
+	</stream>
+	<stream>
+	<title>TV3CAT</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://jonas.do.am/player.swf</swfUrl>
+	<link>rtmp://tv3cat.directe-f4v.emissio.tvcatalunya.cat/live/</link>
+	<pageUrl><![CDATA[http://jonas.do.am/]]></pageUrl>
+	<playpath>TV3CAT_FLV@13069</playpath>
+	<language>Spanish</language>
+	<advanced></advanced>
+	</stream>
+	<stream>
+	<title>EuroNews</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://es.euronews.net/media/player_live_1_12.swf</swfUrl>
+	<link>rtmp://fr-par-1.stream-relay.hexaglobe.net:1935/rtpeuronewslive</link>
+	<pageUrl><![CDATA[http://es.euronews.net/noticias/en-directo/]]></pageUrl>
+	<playpath>es_video750_flash_all.sdp</playpath>
+	<language>Spanish</language>
+	<advanced></advanced>
+	</stream>
+</streams>

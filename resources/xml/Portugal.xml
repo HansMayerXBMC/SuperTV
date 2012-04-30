@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+  <stream>
+  <title>RTP1</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.rtp.pt/swfjs/player/player.swf</swfUrl>
+  <link>rtmp://h2g2.rtp.pt/livetv</link>
+  <pageUrl><![CDATA[http://www.rtp.pt/multimediahtml/emissaotv/rtp1]]></pageUrl>
+  <playpath>2ch5h264</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/a/ac/RTP1.PNG</logourl>
+  <epgid>meo:1</epgid>
+  </stream>
+  <stream>
+  <title>RTP2</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.rtp.pt/swfjs/player/player.swf</swfUrl>
+  <link>rtmp://h2g2.rtp.pt/livetv</link>
+  <pageUrl><![CDATA[http://www.rtp.pt/multimediahtml/emissaotv/rtp2]]></pageUrl>
+  <playpath>2ch3h264</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/a/a5/RTP2.png</logourl>
+  <epgid>meo:27</epgid>
+  </stream>
+  <stream>
+  <title>SIC</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.liveflash.tv/resources/scripts/eplayer.swf</swfUrl>
+  <link>rtmp://213.13.26.11/live</link>
+  <pageUrl><![CDATA[http://www.liveflash.tv/embedplayer]]></pageUrl>
+  <playpath>sic</playpath>
+  <language>Portuguese</language>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/4/4e/SIC_Portugal.png</logourl>
+  <epgid>meo:23</epgid>
+  </stream>
+  <stream>
+  <title>TVI</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.liveflash.tv/resources/scripts/eplayer.swf</swfUrl>
+  <link>rtmp://173.192.153.176/stream</link>
+  <pageUrl>http://www.liveflash.tv/embedplayer/tvi1v/1/650/500</pageUrl>
+  <playpath>tvi1v</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/pt/b/bc/Tvi_logo.png</logourl>
+  <epgid>meo:24</epgid>
+  </stream>
+  <stream>
+  <title>SIC Notícias</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.liveflash.tv/resources/scripts/eplayer.swf</swfUrl>
+  <link>rtmp://213.13.26.11/live</link>
+  <pageUrl><![CDATA[http://www.liveflash.tv/embedplayer]]></pageUrl>
+  <playpath>sicnoticias</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://i203.photobucket.com/albums/aa271/ovelhaperdida/sic_noticias.jpg</logourl>
+  <epgid>meo:2</epgid>
+  </stream>
+  <stream>
+  <title>Odisseia</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+  <link>rtmp://94.102.56.186/histream</link>
+  <pageUrl><![CDATA[http://www.histream.tv/embedTele.php?]]></pageUrl>
+  <playpath>televisaodisseia</playpath>
+  <language>Portuguese</language>
+  <advanced>live=1</advanced>
+  <logourl><![CDATA[http://1.bp.blogspot.com/-2oZ8zgZSV70/TWBKMGwUHcI/AAAAAAAAANk/7JQtLw3gIKE/s1600/Odisseia+logo+peq.png]]></logourl>
+  <epgid>meo:19</epgid>
+  </stream>
+  <stream>
+  <title>RTP Açores</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.rtp.pt/swfjs/player/player.swf</swfUrl>
+  <link>rtmp://h2g2.rtp.pt/livetv</link>
+  <pageUrl><![CDATA[http://www.rtp.pt/multimediahtml/emissaotv/rtpacores]]></pageUrl>
+  <playpath>2rtpacores</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/b/b3/Rtp_acores.png</logourl>
+  <epgid>meo:99</epgid>
+  </stream>
+  <stream>
+  <title>RTP Informação</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.rtp.pt/swfjs/player/player.swf</swfUrl>
+  <link>rtmp://h2j2.rtp.pt/livetv</link>
+  <pageUrl><![CDATA[http://www.rtp.pt/multimediahtml/emissaotv/rtpn]]></pageUrl>
+  <playpath>2ch64h264</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/e/ef/Rtp_Informação_logo_2011.png</logourl>
+  <epgid>meo:28</epgid>
+  </stream>
+  <stream>
+  <title>RTP Internacional</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.rtp.pt/swfjs/player/player.swf</swfUrl>
+  <link>rtmp://h2j2.rtp.pt/livetv</link>
+  <pageUrl><![CDATA[http://www.rtp.pt/multimediahtml/emissaotv/rtpi]]></pageUrl>
+  <playpath>2ch120h264</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/1/15/Rtpintern.png</logourl>
+  </stream>
+  <stream>
+  <title>RTP Madeira</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.rtp.pt/swfjs/player/player.swf</swfUrl>
+  <link>rtmp://h2j2.rtp.pt/livetv</link>
+  <pageUrl><![CDATA[http://www.rtp.pt/multimediahtml/emissaotv/rtpmadeira]]></pageUrl>
+  <playpath>2ch1016h264H14</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/f/f1/Rtp_madeira.png</logourl>
+  <epgid>meo:98</epgid>
+  </stream>
+  <stream>
+  <title>RTP Memória</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.rtp.pt/swfjs/player/player.swf</swfUrl>
+  <link>rtmp://h2g2.rtp.pt/livetv</link>
+  <pageUrl><![CDATA[http://www.rtp.pt/multimediahtml/emissaotv/rtpmemoria]]></pageUrl>
+  <playpath>2ch80h264</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/6/62/Rtpmemoria.png</logourl>
+  <epgid>meo:31</epgid>
+  </stream>
+  <stream>
+  <title>SIC Mulher</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+  <link>rtmp://94.102.56.186/histream</link>
+  <pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+  <playpath>televisasicmulher</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png</logourl>
+  <epgid>meo:29</epgid>
+  </stream>
+  <stream>
+  <title>SIC Radical</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+  <link>rtmp://94.102.56.186/histream</link>
+  <pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+  <playpath>televisasicradical</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/6/60/SICRadical2011logo.png</logourl>
+  <epgid>meo:30</epgid>
+  </stream>
+  <stream>
+  <title>Porto Canal</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://tvportugalhd.com/embed/player.swf</swfUrl>
+  <link>rtmp://arriscopro.flashwebtown.com/live</link>
+  <pageUrl><![CDATA[http://tvportugalhd.com/live.html]]></pageUrl>
+  <playpath>myStream.sdp</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://mktportugal.com/blog/wp-content/uploads/Porto-Canal.jpg</logourl>
+  <epgid>meo:177</epgid>
+  </stream>
+  <stream>
+    <title>AXN Black</title>
+    <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream</link>
+    <pageUrl>http://www.histream.tv/embedTele.php?</pageUrl>
+    <playpath>televisaaxnblack</playpath>
+    <language>Portuguese</language>
+    <advanced>live=1</advanced>
+    <epgid>meo:196</epgid>
+    <logourl>http://jorgesalvador.files.wordpress.com/2011/04/axn-black-logo-peq.png</logourl>
+  </stream>
+  <stream>
+    <title>FOX Crime</title>
+    <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream</link>
+    <pageUrl>http://www.histream.tv/embedTele.php?</pageUrl>
+    <playpath>televisafoxcrime</playpath>
+    <language>Portuguese</language>
+    <advanced>live=1</advanced>
+    <epgid>meo:50</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Fox_Crime_logo.svg/1000px-Fox_Crime_logo.svg.png</logourl>
+  </stream>
+  <stream>
+    <title>FOX life</title>
+    <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream/</link>
+    <pageUrl>http://www.histream.tv/</pageUrl>
+    <playpath>televisafoxlife</playpath>
+    <language>Portuguese</language>
+    <advanced>live=1</advanced>
+    <epgid>meo:167</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG</logourl>
+  </stream>
+  <stream>
+    <title>FOX Movies</title>
+    <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream/</link>
+    <pageUrl>http://www.histream.tv/</pageUrl>
+    <playpath>televisafoxmovies</playpath>
+    <language>Portuguese</language>
+    <advanced />
+    <epgid>meo:199</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/f/f5/Fox_Movies_Middle_East.png</logourl>
+  </stream>
+  <stream>
+    <title>Discovery Channel</title>
+    <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream</link>
+    <pageUrl>http://www.xuuby.com/player.php</pageUrl>
+    <playpath>televisadiscovery</playpath>
+    <language>Portuguese</language>
+    <advanced />
+    <epgid>meo:44</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Discovery_Channel_International.svg/1000px-Discovery_Channel_International.svg.png</logourl>
+  </stream>
+  <stream>
+    <title>National Geographic</title>
+    <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream/</link>
+    <pageUrl>http://www.histream.tv/</pageUrl>
+    <playpath>televisanationalgeographic</playpath>
+    <language>Portuguese</language>
+    <advanced />
+    <epgid>meo:177</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1000px-National_Geographic_Channel.svg.png</logourl>
+  </stream>
+  <stream>
+    <title>Sony Entertainment</title>
+    <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream</link>
+    <pageUrl>http://www.xuuby.com/player.php</pageUrl>
+    <playpath>televisasonyentertainment</playpath>
+    <language>Portuguese</language>
+    <advanced />
+    <epgid>meo:75</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/5/55/SET_logo.png</logourl>
+  </stream>
+  <stream>
+    <title>Canal Hollywood</title>
+    <swfUrl>http://www.histream.tv/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream/</link>
+    <pageUrl>http://www.histream.tv/</pageUrl>
+    <playpath>televisahollywood</playpath>
+    <language>Portuguese</language>
+    <advanced />
+    <epgid>meo:15</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png</logourl>
+  </stream>
+  <stream>
+    <title>Sport TV 1 HD</title>
+    <swfUrl>http://thecdn.04stream.com/p/bbp.swf</swfUrl>
+    <link>rtmp://91.236.115.8:1935/stream/</link>
+    <pageUrl>http://04stream.com/ent.php</pageUrl>
+    <playpath>K0P5v0Z0.stream</playpath>
+    <language>Portuguese</language>
+    <advanced>-a stream/</advanced>
+    <epgid>meo:144</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/9/97/SportTV1.png</logourl>
+  </stream>
+  <stream>
+    <title>Sport TV 2</title>
+    <swfUrl>http://www.xuuby.com/player/player-licensed.swf</swfUrl>
+    <link>rtmp://93.174.93.58/histreamEd</link>
+    <pageUrl>http://www.xuuby.com/player.php?chname=televisasporttv2</pageUrl>
+    <playpath>televisasporttv2</playpath>
+    <language>Portuguese</language>
+    <advanced>-a histreamEd</advanced>
+    <epgid>meo:89</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/8/81/SportTV2.png</logourl>
+  </stream>
+  <stream>
+    <title>Sport TV 4</title>
+    <swfUrl>http://www.zcast.us/player.swf</swfUrl>
+    <link>rtmp://s2.zcast.us/liveedge</link>
+    <pageUrl>http://zcast.us/gen.php</pageUrl>
+    <playpath>xu4444-848</playpath>
+    <language>Portuguese</language>
+    <advanced>-a liveedge</advanced>
+    <epgid>meo:204</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/commons/f/f3/Sporttv_logo.png</logourl>
+  </stream>
+  <stream>
+    <title>Benfica TV</title>
+    <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+    <link>rtmp://94.102.56.186/histream</link>
+    <pageUrl>http://www.xuuby.com/player.php</pageUrl>
+    <playpath>televisabenficatv</playpath>
+    <language>Portuguese</language>
+    <advanced />
+    <epgid>meo:145</epgid>
+    <logourl>http://upload.wikimedia.org/wikipedia/en/1/11/LOGO_benfica_TV.png</logourl>
+  </stream>
+  <stream>
+  <title>EuroNews</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://pt.euronews.net/media/player_live_1_12.swf</swfUrl>
+  <link>rtmp://fr-par-2.stream-relay.hexaglobe.net:1935/rtpeuronewslive</link>
+  <pageUrl><![CDATA[http://fr.euronews.net/infos/en-direct]]></pageUrl>
+  <playpath>pt_video750_flash_all.sdp</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Euronews_logo.svg/1000px-Euronews_logo.svg.png</logourl>
+  <epgid>meo:3</epgid>
+  </stream>
+  <stream>
+    <title>Ciencia Viva TV</title>
+    <swfUrl>http://www.cvtv.pt/home/video/player.swf</swfUrl>
+    <link>rtmp://193.137.196.168/live</link>
+    <pageUrl>http://www.cvtv.pt/home</pageUrl>
+    <playpath>livestream</playpath>
+    <language>Portuguese</language>
+    <advanced>-a live</advanced>
+  </stream>
+  <stream>
+  <title>Económico.tv</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://tv.economico.pt/AkamaiFlashPlayer2.swf</swfUrl>
+  <link>rtmp://cp89928.live.edgefcs.net:1935/live?ovpfv=2.1.2</link>
+  <pageUrl><![CDATA[http://tv.economico.pt/]]></pageUrl>
+  <playpath>EconomicoTV_MBR_750@19075</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://jorgesalvador.files.wordpress.com/2011/02/economico-tv.jpg</logourl>
+  <epgid>meo:189</epgid>
+  </stream>
+  <stream>
+  <title>SIC K</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+  <link>rtmp://94.102.56.186/histream</link>
+  <pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+  <playpath>televisasickids</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png</logourl>
+  <epgid>meo:168</epgid>
+  </stream>
+  <stream>
+  <title>Disney Channel</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+  <link>rtmp://94.102.56.186/histream</link>
+  <pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+  <playpath>televisadisney</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://images4.wikia.nocookie.net/__cb20111127125003/logopedia/images/thumb/b/b1/Disney_Channel_2002_old.svg/1000px-Disney_Channel_2002_old.svg.png</logourl>
+  <epgid>meo:101</epgid>
+  </stream>
+  <stream>
+  <title>Panda</title>
+  <info resolution="768x420" bitrate="1000kbps"/>
+  <swfUrl>http://www.xuuby.com/player/player.swf</swfUrl>
+  <link>rtmp://94.102.56.186/histream</link>
+  <pageUrl><![CDATA[http://www.xuuby.com/player.php]]></pageUrl>
+  <playpath>televisacanalpanda</playpath>
+  <language>Portuguese</language>
+  <advanced></advanced>
+  <logourl>http://upload.wikimedia.org/wikipedia/pt/5/5f/Logo_Canal_Panda.png</logourl>
+  <epgid>meo:12</epgid>
+  </stream>
+</streams>

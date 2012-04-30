@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+  <stream>
+	<title>Das Erste</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>ard_1_800@15782</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/EinsHDtief_Logo.svg/1000px-EinsHDtief_Logo.svg.png</logourl>
+	<epgid>teleboy:1</epgid>
+	</stream>
+	<stream>
+	<title>ZDF</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>zdf_1_800@45509</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/1000px-ZDF_HD_Logo.svg.png</logourl>
+	<epgid>teleboy:2</epgid>
+	</stream>
+	<stream>
+	<title>RTL</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>rtl_1_800@43050</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/e/e1/RTL_HD_Logo.svg/1000px-RTL_HD_Logo.svg.png</logourl>
+	<epgid>teleboy:8</epgid>
+	</stream>
+	<stream>
+	<title>SAT.1</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>sat1_1_800@44490</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/c/c8/Sat.1_HD_Logo.png</logourl>
+	<epgid>teleboy:142</epgid>
+	</stream>
+	<stream>
+	<title>ProSieben</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>pro7_1_800@43051</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/1/1b/ProSieben_HD_Logo.svg/1000px-ProSieben_HD_Logo.svg.png</logourl>
+	<epgid>teleboy:162</epgid>
+	</stream>
+	<stream>
+	<title>RTL II</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>rtl2_1_800@43053</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/5/54/RTL2HDLogo.svg/1000px-RTL2HDLogo.svg.png</logourl>
+	<epgid>teleboy:23</epgid>
+	</stream>
+	<stream>
+	<title>kabel eins</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>kabel1_1_800@43055</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/5/5e/Kabel_Eins_HD_2011.svg/1000px-Kabel_Eins_HD_2011.svg.png</logourl>
+	<epgid>teleboy:143</epgid>
+	</stream>
+	<stream>
+	<title>VOX</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>kabel1_1_800@43055</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/e/ee/Vox-HD.svg/1000px-Vox-HD.svg.png</logourl>
+	<epgid>teleboy:25</epgid>
+	</stream>
+	<stream>
+	<title>arte</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>arte_1_800@45495</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arte_HD_Verlauf_Logo.svg/1000px-Arte_HD_Verlauf_Logo.svg.png</logourl>
+	<epgid>teleboy:24</epgid>
+	</stream>
+	<stream>
+	<title>sixx</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>sixx_1_800@45516</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/7/74/Sixx_HD_Cornerlogo_2011.svg/1000px-Sixx_HD_Cornerlogo_2011.svg.png</logourl>
+	<epgid>teleboy:259</epgid>
+	</stream>
+	<stream>
+	<title>Sport 1</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>sport1_1_800@45517</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/3/35/Sport1HD.svg/1000px-Sport1HD.svg.png</logourl>
+	<epgid>teleboy:36</epgid>
+	</stream>
+  <!--	<stream>
+  	<title>Das Erste HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>29</playpath>
+  	<language>German</language>
+  	<advanced></advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/EinsHDtief_Logo.svg/1000px-EinsHDtief_Logo.svg.png</logourl>
+  	<epgid>teleboy:1</epgid>
+  	</stream> 
+  	<stream>
+  	<title>ZDF HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>28</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/1000px-ZDF_HD_Logo.svg.png</logourl>
+  	<epgid>teleboy:2</epgid>
+  	</stream>
+  	<stream>
+  	<title>RTL HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>25</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/e/e1/RTL_HD_Logo.svg/1000px-RTL_HD_Logo.svg.png</logourl>
+  	<epgid>teleboy:8</epgid>
+  	</stream>
+  	<stream>
+  	<title>SAT.1 HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>3</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/c/c8/Sat.1_HD_Logo.png</logourl>
+  	<epgid>teleboy:142</epgid>
+  	</stream>
+  	<stream>
+  	<title>ProSieben HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>4</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/1/1b/ProSieben_HD_Logo.svg/1000px-ProSieben_HD_Logo.svg.png</logourl>
+  	<epgid>teleboy:162</epgid>
+  	</stream>
+  	<stream>
+  	<title>RTL II HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://tvsector.com/mediaplayer/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>27</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/5/54/RTL2HDLogo.svg/1000px-RTL2HDLogo.svg.png</logourl>
+  	<epgid>teleboy:23</epgid>
+  	</stream>
+  	<stream>
+  	<title>kabel eins HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>4</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/5/5e/Kabel_Eins_HD_2011.svg/1000px-Kabel_Eins_HD_2011.svg.png</logourl>
+  	<epgid>teleboy:143</epgid>
+  	</stream>
+  	<stream>
+  	<title>VOX HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://www.tvsector.com/national-geographic-nat-geo-hd/]]></pageUrl>
+  	<playpath>44</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/e/ee/Vox-HD.svg/1000px-Vox-HD.svg.png</logourl>
+  	<epgid>teleboy:25</epgid>
+  	</stream>
+  	<stream>
+  	<title>ARTE HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://www.tvsector.com ]]></pageUrl>
+  	<playpath>43</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arte_HD_Verlauf_Logo.svg/1000px-Arte_HD_Verlauf_Logo.svg.png</logourl>
+  	<epgid>teleboy:24</epgid>
+  	</stream>
+  	<stream>
+  	<title>sixx HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>6</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/7/74/Sixx_HD_Cornerlogo_2011.svg/1000px-Sixx_HD_Cornerlogo_2011.svg.png</logourl>
+  	<epgid>teleboy:259</epgid>
+  	</stream>
+  	<title>Sport 1 HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>26</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/3/35/Sport1HD.svg/1000px-Sport1HD.svg.png</logourl>
+  	<epgid>teleboy:36</epgid>
+  	</stream>
+  	<stream>
+  	<title>N24 HD</title>
+  	<info resolution="768x420" bitrate="1000kbps"/>
+  	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+  	<link>rtmp://tv.futubox.com/fb</link>
+  	<pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
+  	<playpath>1</playpath>
+  	<language>German</language>
+  	<advanced>live=1</advanced>
+  	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/5/56/N24hd_logo.svg/1000px-N24hd_logo.svg.png</logourl>
+  	<epgid>teleboy:44</epgid>
+  	</stream>
+  	-->
+	<stream>
+	<title>DMAX</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>dmax_1_800@45498</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/DMAX.svg/1000px-DMAX.svg.png</logourl>
+	<epgid>teleboy:154</epgid>
+	</stream>
+	<stream>
+	<title>zdf_neo</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>zdfneo_1_800@44504 </playpath>
+	<language>German</language>
+	<advanced>live=1 -x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ZDFneo.svg/1000px-ZDFneo.svg.png</logourl>
+	<epgid>teleboy:121</epgid>
+	</stream>
+	<stream>
+	<title>EuroSport</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108478.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>eurosport_1_800@45515</playpath>
+	<language>German</language>
+	<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/6/6e/Eurosport_2011.svg/1000px-Eurosport_2011.svg.png</logourl>
+	<epgid>teleboy:35</epgid>
+	</stream>
+	<stream>
+	<title>n-tv</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp115491.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>ntv_1_800@45520 </playpath>
+	<language>German</language>
+	<advanced>live=1 -x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/1/16/N-tv_Logo_2011.svg/1000px-N-tv_Logo_2011.svg.png</logourl>
+	<epgid>teleboy:38</epgid>
+	</stream>
+	<stream>
+	<title>EuroNews</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://de.euronews.net/media/player_live_1_12.swf</swfUrl>
+	<link>rtmp://fr-par-2.stream-relay.hexaglobe.net:1935/rtpeuronewslive</link>
+	<pageUrl><![CDATA[http://de.euronews.net/nachrichten/livestream/]]></pageUrl>
+	<playpath>de_video750_flash_all.sdp</playpath>
+	<language>German</language>
+	<advanced></advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/b/b5/Euronews-pure.svg/1000px-Euronews-pure.svg.png</logourl>
+	<epgid>teleboy:67</epgid>
+	</stream>
+	<stream>
+	<title>Super RTL</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>superrtl_1_800@44489</playpath>
+	<language>German</language>
+	<advanced>live=1 -x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/d/dd/Super-RTL_logo2007.svg/1000px-Super-RTL_logo2007.svg.png</logourl>
+	<epgid>teleboy:33</epgid>
+	</stream>
+	<stream>
+	<title>Das Vierte</title>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108477.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>dasvierte_1_300@45510</playpath>
+	<language>German</language>
+	<advanced>live=1 -x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/7/77/Das_Vierte_2009_Logo.svg/1000px-Das_Vierte_2009_Logo.svg.png</logourl>
+	<epgid>teleboy:145</epgid>
+	</stream>
+	<stream>
+	<title>KIKA</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>kika_1_800@45500</playpath>
+	<language>German</language>
+	<advanced>live=1 -x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/f/f5/Kika_2012.svg/1000px-Kika_2012.svg.png</logourl>
+	<epgid>teleboy:43</epgid>
+	</stream>
+	<stream>
+	<title>3sat</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108475.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>3sat_1_800@45493</playpath>
+	<language>German</language>
+	<advanced>live=1 -x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1000px-3sat-Logo.svg.png</logourl>
+	<epgid>teleboy:11</epgid>
+	</stream>
+	<stream>
+	<title>Bayerisches Fernsehen</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://mediathek-video.br.de/plugins/AkamaiBasicStreamingPlugin.swf</swfUrl>
+	<link>rtmp://cp121359.live.edgefcs.net:1935/live</link>
+	<pageUrl><![CDATA[http://mediathek-video.br.de/]]></pageUrl>
+	<playpath>b7_bfssued_2128@49988</playpath>
+	<language>German</language>
+	<advanced>live=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/0/0b/Bayerisches_Fernsehen_%282007%29.svg/1000px-Bayerisches_Fernsehen_%282007%29.svg.png</logourl>
+	<epgid>teleboy:27</epgid>
+	</stream>
+	<stream>
+	<title>hr-fernsehen</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.hr-online.de/website/static/flashplayer/mediaplayer-5.2-mod-2</swfUrl>
+	<link>rtmp://cp121363.live.edgefcs.net/live/</link>
+	<pageUrl><![CDATA[http://www.hr-online.de]]></pageUrl>
+	<playpath>hr-fernsehen_768@53002</playpath>
+	<language>German</language>
+	<advanced>live=1 </advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/5/53/Hr-fernsehen-logo.svg/1000px-Hr-fernsehen-logo.svg.png</logourl>
+	<epgid>teleboy:42</epgid>
+	</stream>
+	<stream>
+	<title>WDR</title>
+	<swfUrl>http://player.longtailvideo.com/player.swf</swfUrl>
+  <link>rtmp://gffstream.fc.llnwd.net:1935/gffstream/003/</link>
+  <pageUrl>http://longtailvideo.com</pageUrl>
+  <playpath>wdrfs_h264_m_a</playpath>
+	<language>German</language>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/8/89/WDR_Senderkennung.svg/1000px-WDR_Senderkennung.svg.png</logourl>
+	<epgid>teleboy:30</epgid>
+	</stream>	
+	<stream>
+	<title>NDR</title>
+	<swfUrl>http://www.ndr.de/flash/mediathek/videoLivestreamPlayer.swf</swfUrl>
+  <link>rtmpt://ndr.fc.llnwd.net:80/ndr/_definst_/</link>
+  <pageUrl>http://www.ndr.de</pageUrl>
+  <playpath>ndr_fs_nds_hq_flv</playpath>
+  <language>German</language>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/9/97/NDR-Fernsehen-Logo.svg/1000px-NDR-Fernsehen-Logo.svg.png</logourl>
+	<epgid>teleboy:28</epgid>
+	</stream>
+	<stream>
+	<title>MDR</title>
+	<swfUrl>http://weissw8.myhostpoint.ch/player.swf</swfUrl>
+	<link>rtmp://176.31.236.184:1935/streams</link>
+	<pageUrl>http://www.streammafia.com/viewpage.php?page_id=35</pageUrl>
+	<playpath>mdr</playpath>
+	<language>German</language>
+	<advanced>live=1 -a streams</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/2/27/Mdr-fernsehen-logo.svg/1000px-Mdr-fernsehen-logo.svg.png</logourl>
+	<epgid>teleboy:31</epgid>
+	</stream>
+	<stream>
+	<title>EinsExtra</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/flash/expressInstall.swf</swfUrl>
+	<link>rtmp://69.55.53.11/live415</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>415.low.stream</playpath>
+	<language>German</language>
+	<advanced>live=1 tcUrl=rtmp://69.55.53.11/live415/415.low.stream swfVfy=1</advanced>
+	<epgid>teleboy:115</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Einsextra_logo.svg/1000px-Einsextra_logo.svg.png</logourl>
+	</stream>
+	<stream>
+	<title>EinsPlus</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/flash/expressInstall.swf</swfUrl>
+	<link>rtmp://69.55.53.11/live418</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>418.low.stream</playpath>
+	<language>German</language>
+	<advanced>live=1 tcUrl=rtmp://69.55.53.11/live418/418.low.stream swfVfy=1</advanced>
+	<epgid>teleboy:47</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plus-1-Logo.svg/1000px-Plus-1-Logo.svg.png</logourl>
+	</stream>
+	<stream>
+	<title>Einsfestival</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/flash/expressInstall.swf</swfUrl>
+	<link>rtmp://69.55.53.11/live421</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>421.low.stream</playpath>
+	<language>German</language>
+	<advanced>live=1 tcUrl=rtmp://69.55.53.11/live421/421.low.stream swfVfy=1</advanced>
+	<epgid>teleboy:48</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Einsfestival_2009.svg/1000px-Einsfestival_2009.svg.png</logourl>
+	</stream>
+	<stream>
+	<title>ZDFkultur</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/flash/expressInstall.swf</swfUrl>
+	<link>rtmp://69.55.53.11/live359</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>359.low.stream</playpath>
+	<language>German</language>
+	<advanced>live=1 tcUrl=rtmp://69.55.53.11/live359/359.low.stream swfVfy=1</advanced>
+	<epgid>teleboy:280</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zdf.kultur_logo.svg/1000px-Zdf.kultur_logo.svg.png</logourl>
+	</stream>
+	<stream>
+	<title>Phoenix</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/flash/expressInstall.swf</swfUrl>
+	<link>rtmp://69.55.53.11/live424</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>424.low.stream</playpath>
+	<language>German</language>
+	<advanced>live=1 tcUrl=rtmp://69.55.53.11/live424/424.low.stream swfVfy=1</advanced>
+  <epgid>teleboy:46</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/7/7e/Phoenix_2008.svg/1000px-Phoenix_2008.svg.png</logourl>
+	</stream>
+	<stream>
+	<title>VIVA</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://player.tv-stream.to/cplayer.swf</swfUrl>
+	<link>rtmp://srv3.tv-stream.to:1935/live</link>
+	<pageUrl><![CDATA[http://tv-stream.to/#]]></pageUrl>
+	<playpath>viva</playpath>
+	<language>German</language>
+	<advanced>live=1</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/1000px-VIVA_Logo_blue-yellow_solid.svg.png</logourl>
+	<epgid>teleboy:70</epgid>
+	</stream>
+	<stream>
+	<title>Nick/Comedy Central</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+	<link>rtmp://cp108478.live.edgefcs.net/live</link>
+	<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+	<playpath>nick_cc_1_800@45519</playpath>
+	<language>German</language>
+	<advanced>live=1 -x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+	<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/1/10/Comedy_Central_Logo_blue.svg/1000px-Comedy_Central_Logo_blue.svg.png</logourl>
+	<epgid>teleboy:141</epgid>
+	</stream>
+</streams>

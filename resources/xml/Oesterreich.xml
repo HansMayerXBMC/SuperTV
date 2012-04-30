@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='http://ioslivetv.com/xml/style.xsl'?>
+<streams>
+<stream>
+<title>ORF eins</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+<link>rtmp://cp108341.live.edgefcs.net/live</link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath>orf1_1_800@43059 </playpath>
+<language>German</language>
+<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/1000px-ORFeins.svg.png</logourl>
+<epgid>teleboy:6</epgid>
+</stream>
+<stream>
+<title>ORF 2</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://www.wilmaa.com/player/main_v5.033.swf</swfUrl>
+<link>rtmp://cp108476.live.edgefcs.net/live</link>
+<pageUrl><![CDATA[http://www.wilmaa.com]]></pageUrl>
+<playpath>orf2_1_800@45502</playpath>
+<language>German</language>
+<advanced>-x 927444 -w 6c1be1765187eae0bc9af07d858fae59a0effd3c5b803d08db261ced2c5512bb</advanced>
+<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1000px-ORF2_logo_n.svg.png</logourl>
+<epgid>teleboy:7</epgid>
+</stream>
+<!--<stream>
+<title>ATV</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://.tv/player.swf</swfUrl>
+<link>rtmp://.tv/live</link>
+<pageUrl>http://.tv/026.ATV.php</pageUrl>
+<playpath>ATV</playpath>
+<language>German</language>
+<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/9/9c/ATV.svg/1000px-ATV.svg.png</logourl>
+<epgid>tvprg24:atv</epgid>
+</stream>-->
+<stream>
+<title>ServusTV</title>
+<info resolution="768x420" bitrate="1000kbps"/>
+<swfUrl>http://weissw8.myhostpoint.ch/player.swf</swfUrl>
+<link>rtmp://176.31.236.184:1935/live</link>
+<pageUrl><![CDATA[http://www.streammafia.com/viewpage.php?page_id=2]]></pageUrl>
+<playpath>servustv</playpath>
+<language>German</language>
+<logourl>http://upload.wikimedia.org/wikipedia/de/thumb/b/be/ServusTV.svg/1000px-ServusTV.svg.png</logourl>
+<epgid>teleboy:260</epgid>
+</stream>
+</streams>
