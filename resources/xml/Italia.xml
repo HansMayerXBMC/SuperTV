@@ -91,13 +91,13 @@
   <logourl>http://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/1000px-Logo_Italia2.svg.png</logourl>
   <epgid>mediaset:I2|nochk</epgid>
   </stream>
- <!--  <stream>
+ <stream>
  <title>Sky Cinema 1 HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>34</playpath>
+  <playpath>z050207.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <epgid>skyit:101</epgid>
@@ -110,9 +110,9 @@
   <title>Sky Cinema Family HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>67</playpath>
+  <playpath>z050244.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <epgid>skyit:105</epgid>
@@ -125,9 +125,9 @@
   <title>Sky Cinema Hits HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>38</playpath>
+  <playpath>z050211.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <epgid>skyit:724</epgid>
@@ -140,9 +140,9 @@
   <title>Sky Cinema Max HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>33</playpath>
+  <playpath>z050206.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/en/7/7d/SkyCinema.png</logourl>
@@ -155,9 +155,9 @@
   <title>Sky Cinema Passion HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>66</playpath>
+  <playpath>z050243.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <epgid>skyit:6581</epgid>
@@ -170,9 +170,9 @@
   <title>AXN HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>68</playpath>
+  <playpath>z050245.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <epgid>skyit:443</epgid>
@@ -185,9 +185,9 @@
   <title>Gambero Rosso HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>69</playpath>
+  <playpath>z050246.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <epgid>skyit:524</epgid>
@@ -200,9 +200,9 @@
   <title>National Geographic HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>47</playpath>
+  <playpath>z050223.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
 	<epgid>skyit:641</epgid>
@@ -215,9 +215,9 @@
   <title>Nat Geo Adventure HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com/national-geographic-nat-geo-hd/]]></pageUrl>
-  <playpath>72</playpath>
+  <playpath>z050249.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
 	<epgid>skyit:121</epgid>
@@ -230,9 +230,9 @@
   <title>Discovery Channel HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
-  <playpath>35</playpath>
+  <playpath>z050208.stream</playpath>
   <language>Italian</language>
   <advanced></advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/4/46/Discovery_Channel_International.svg/1000px-Discovery_Channel_International.svg.png</logourl>
@@ -245,9 +245,9 @@
   <title>History Channel HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
-  <playpath>71</playpath>
+  <playpath>z050003.stream</playpath>
   <language>Italian</language>
   <advanced></advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png</logourl>
@@ -260,9 +260,9 @@
   <title>FOX HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
-  <playpath>37</playpath>
+  <playpath>z050210.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1000px-FOX_wordmark-orange.svg.png</logourl>
@@ -275,9 +275,9 @@
   <title>FOX Crime HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
-  <playpath>36</playpath>
+  <playpath>z050209.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/it/thumb/2/2b/Fox_Crime_logo-1-.svg/1000px-Fox_Crime_logo-1-.svg.png</logourl>
@@ -290,9 +290,9 @@
   <title>FOX life HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
-  <playpath>70</playpath>
+  <playpath>z050247.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/it/b/b3/Fox_Life.png</logourl>
@@ -300,7 +300,7 @@
   <backup>
     <link>http://tv.futubox.com:1935/live/z050247.stream/playlist.m3u8</link>
   </backup>
-  </stream>-->
+  </stream>
   <stream>
   <title>Cielo</title>
   <info resolution="768x420" bitrate="1000kbps"/>
@@ -313,13 +313,13 @@
   <logourl>http://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png</logourl>
   <epgid>skyit:6280</epgid>
   </stream>
- <!--  <stream>
+  <stream>
  <title>Rai News HD</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://www.futubox.com ]]></pageUrl>
-  <playpath>42</playpath>
+  <playpath>z050217.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/81/RAI_News_2010_Logo.svg/1000px-RAI_News_2010_Logo.svg.png</logourl>
@@ -327,7 +327,7 @@
   <backup>
     <link>http://tv.futubox.com:1935/live/z050217.stream/playlist.m3u8</link>
   </backup>
-  </stream>-->
+  </stream>
   <stream>
   <title>EuroNews</title>
   <info resolution="768x420" bitrate="1000kbps"/>
