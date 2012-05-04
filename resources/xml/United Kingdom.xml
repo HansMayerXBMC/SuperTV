@@ -77,13 +77,13 @@
 	<epgid>skyuk:1801</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/1000px-Channel_5_logo_2011.svg.png</logourl>
 	</stream>
-<!--	<stream>
+<stream>
 	<title>BBC HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>15</playpath>
+	<playpath>z010201.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:2075</epgid>
@@ -91,7 +91,7 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z010201.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 	<stream>
 	<title>ITV1</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
@@ -111,11 +111,11 @@
 	<epgid>skyuk:6000</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/ITV1.svg/1000px-ITV1.svg.png</logourl>
 	</stream>
-<!--	<stream>
+	<stream>
 	<title>ITV2 HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
 	<playpath>z020102.stream</playpath>
 	<language>English</language>
@@ -130,7 +130,7 @@
 	<title>ITV3 HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
 	<playpath>z020103.stream</playpath>
 	<language>English</language>
@@ -140,7 +140,7 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z020103.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 	<stream>
 	<title>ITV4</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
@@ -186,18 +186,21 @@
 	<epgid>skyuk:1627</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/1000px-Film4.svg.png</logourl>
 	</stream>
-<!--	<stream>
+	<stream>
 	<title>E4 HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>57</playpath>
+	<playpath>z050233.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:1628</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1000px-E4_%28channel%29_logo.svg.png</logourl>
-	</stream>-->
+	<backup>
+	  <link>http://tv.futubox.com:1935/live/z050233.stream/playlist.m3u8</link>
+	</backup>
+	</stream>
 	<stream>
 	<title>More4</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
@@ -224,13 +227,13 @@
 	<epgid>skyuk:1758</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/1000px-4_Music_logo.svg.png</logourl>
 	</stream>
-<!--	<stream>
+	<stream>
 	<title>Sky Action HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>60</playpath>
+	<playpath>z050237.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4014</epgid>
@@ -243,9 +246,9 @@
 	<title>Sky Comedy HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>55</playpath>
+	<playpath>z050231.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4019</epgid>
@@ -258,9 +261,9 @@
 	<title>Sky Drama/Romance HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>53</playpath>
+	<playpath>z050229.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4016</epgid>
@@ -273,9 +276,9 @@
 	<title>Sky Family HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>58</playpath>
+	<playpath>z050234.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4018</epgid>
@@ -288,9 +291,9 @@
 	<title>Sky MDN Greatest HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>52</playpath>
+	<playpath>z050228.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4015</epgid>
@@ -303,9 +306,9 @@
 	<title>Sky SciFi/Horror HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>54</playpath>
+	<playpath>z050230.stream</playpath>
 	<language>English</language>
 	<advanced></advanced>
 	<epgid>skyuk:4017</epgid>
@@ -318,9 +321,9 @@
 	<title>Sky Thriller HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>59</playpath>
+	<playpath>z050236.stream</playpath>
 	<language>English</language>
 	<advanced></advanced>
 	<epgid>skyuk:4062</epgid>
@@ -328,7 +331,7 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z050236.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 	<stream>
 	<title>Sky Arts 1</title>
 	<link>http://goo.gl/jnKZY</link>
@@ -343,19 +346,6 @@
 	<epgid>skyuk:1402</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1000px-Sky1_logo_2011.svg.png</logourl>
 	</stream>
-	
-	<!--<stream>
-	<title>Sky1</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.flashsportstreams.info/protected/secure_player.swf</swfUrl>
-	<link>rtmp://fsscdn.foo-net.com/tradv-secure/live</link>
-	<pageUrl><![CDATA[http://www.flashsportstreams.tv/forum/view.php?pg=vip24]]></pageUrl>
-	<playpath>sp24.stream</playpath>
-	<language>English</language>
-	<advanced>live=1</advanced>
-	<epgid>skyuk:1402</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/9/91/Sky1_logo_2011.svg/1000px-Sky1_logo_2011.svg.png</logourl>
-	</stream>-->
 	<stream>
 	<title>PICK TV</title>
   <link>http://mi7.gv.filmon.com:1935/live/371.high.stream/playlist.m3u8</link>
@@ -363,13 +353,13 @@
 	<epgid>skyuk:1832</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/3/37/Pick_TV.svg/1000px-Pick_TV.svg.png</logourl>
 	</stream>
-<!--	<stream>
+	<stream>
 	<title>MGM HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
 	<link>rtmp://tv.tvsector.com/live </link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>23</playpath>
+	<playpath>z020401.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4007</epgid>
@@ -384,7 +374,7 @@
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
 	<link>rtmp://tv.tvsector.com/live </link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>64</playpath>
+	<playpath>z050241.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4074</epgid>
@@ -399,7 +389,7 @@
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
 	<link>rtmp://tv.tvsector.com/live </link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>56</playpath>
+	<playpath>z050232.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:1305</epgid>
@@ -407,7 +397,7 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z050232.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 	<stream>
 	<title>Really</title>
   <link>http://mi7.gv.filmon.com:1935/live/372.high.stream/playlist.m3u8</link>
@@ -415,13 +405,13 @@
 	<epgid>skyuk:2325</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Really_logo.svg/1000px-Really_logo.svg.png</logourl>
 	</stream>
-<!--	<stream>
+	<stream>
 	<title>Comedy Central HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>24</playpath>
+	<playpath>z020503.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4056</epgid>
@@ -434,9 +424,9 @@
 	<title>Sky News HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>51</playpath>
+	<playpath>z050227.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4050</epgid>
@@ -444,7 +434,7 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z050227.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 	<stream>
 	<title>EuroNews</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
@@ -457,13 +447,13 @@
 	<epgid>skyuk:4604</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/9/93/Euronews_logo.svg/1000px-Euronews_logo.svg.png</logourl>
 	</stream>
-<!--	<stream>
+	<stream>
 	<title>Sky Sports HD1</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>50</playpath>
+	<playpath>z050226.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4002</epgid>
@@ -477,7 +467,7 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z050226.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 	<stream>
 	<title>Sky Sports 2</title>
 	<link>http://goo.gl/fVVbZ</link>
@@ -510,13 +500,13 @@
     <epgid>skyuk:1430</epgid>
     <logourl>http://upload.wikimedia.org/wikipedia/en/6/64/Sky_Poker.png</logourl>
   </stream>
-<!--	<stream>
+	<stream>
 	<title>ESPN America HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com/espn-america-hd/]]></pageUrl>
-	<playpath>32</playpath>
+	<playpath>z050201.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4057</epgid>
@@ -529,9 +519,9 @@
 	<title>Eurosport HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>19</playpath>
+	<playpath>z010601.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4004</epgid>
@@ -544,9 +534,9 @@
 	<title>Eurosport 2 HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>16</playpath>
+	<playpath>z010301.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:1841</epgid>
@@ -554,7 +544,7 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z010301.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 	<stream>
 	<title>Chelsea TV</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
@@ -564,13 +554,13 @@
 	<epgid>skyuk:1757</epgid>
 	<logourl>http://img190.imageshack.us/img190/771/advertisementchelsea.png</logourl>
 	</stream>
-<!--	<stream>
+	<stream>
 	<title>Discovery HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>63</playpath>
+	<playpath>z050002.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4003</epgid>
@@ -583,9 +573,9 @@
 	<title>History HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com/history-channel-hd/]]></pageUrl>
-	<playpath>31</playpath>
+	<playpath>z050003.stream</playpath>
 	<language>English </language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4086</epgid>
@@ -598,9 +588,9 @@
 	<title>National Geographic HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>49</playpath>
+	<playpath>z050225.stream</playpath>
 	<language>English</language>
 	<advanced></advanced>
 	<epgid>skyuk:4031</epgid>
@@ -613,9 +603,9 @@
 	<title>Nat Geo Wild HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>61</playpath>
+	<playpath>z050204.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4025</epgid>
@@ -628,9 +618,9 @@
 	<title>Animal Planet HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>30</playpath>
+	<playpath>z050001.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:2402</epgid>
@@ -665,7 +655,7 @@
 	<title>MTV Live HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
 	<playpath>z010001.stream</playpath>
 	<language>English</language>
@@ -680,9 +670,9 @@
 	<title>Bio. HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>62</playpath>
+	<playpath>z020204.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4087</epgid>
@@ -695,9 +685,9 @@
 	<title>Disney XD HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/fb</link>
+	<link>rtmp://tv.futubox.com/live</link>
 	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>20</playpath>
+	<playpath>z020101.stream</playpath>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4070</epgid>
@@ -705,5 +695,5 @@
 	<backup>
 	  <link>http://tv.futubox.com:1935/live/z020101.stream/playlist.m3u8</link>
 	</backup>
-	</stream>-->
+	</stream>
 </streams>
