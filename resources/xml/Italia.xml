@@ -53,9 +53,9 @@
   <title>Canale 5</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
-  <playpath>18</playpath>
+  <playpath>z010502.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Canale_5.svg/1000px-Canale_5.svg.png</logourl>
@@ -68,9 +68,9 @@
   <title>Italia 1</title>
   <info resolution="768x420" bitrate="1000kbps"/>
   <swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-  <link>rtmp://tv.futubox.com/fb</link>
+  <link>rtmp://tv.futubox.com/live</link>
   <pageUrl><![CDATA[http://futubox.com/]]></pageUrl>
-  <playpath>17</playpath>
+  <playpath>z010501.stream</playpath>
   <language>Italian</language>
   <advanced>live=1</advanced>
   <logourl>http://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/1000px-Italia_1.svg.png</logourl>
